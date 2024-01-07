@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,Occupation,WebsiteVisits,Churn
+1,47,Other,East,Silver,4,482.9683581,Books,2022/3/6 13:56,Other,14,1
+2,28,-,-,-,3,344.8933535,Home Goods,2023/12/19 7:28,Doctor,7,0
+3,35,Male,South,Silver,5,546.9302086,Home Goods,2023/12/11 11:29,Student,9,0
+4,63,Other,North,Gold,5,613.871122,Clothing,2023/7/18 18:17,Doctor,10,0
+5,37,Other,South,Bronze,12,-,Electronics,-,Engineer,-,1
+6,27,Male,North,Platinum,5,527.8042333,Home Goods,2023/6/9 19:57,Unemployed,7,0
+7,30,Male,South,Silver,5,534.976474,Books,2023/3/26 14:20,Unemployed,9,1
+8,28,Other,South,Gold,8,808.1474203,Home Goods,2023/9/27 23:24,Unemployed,6,0
+9,27,Other,East,Bronze,-,898.4074868,Electronics,-,Unemployed,12,0
+10,65,Other,South,Bronze,7,803.9542425,Clothing,2023/7/20 9:13,Engineer,11,0
+11,35,Male,East,Gold,-,732.2318353,Electronics,2023/11/20 10:50,Student,15,0
+12,48,Female,North,Platinum,4,485.359105,Electronics,2023/11/22 12:28,Student,8,0
+13,67,Other,North,Gold,6,716.084923,-,2022/9/18 9:27,Doctor,7,1
+14,35,Female,North,Gold,8,824.8826487,Home Goods,2023/3/19 2:35,Artist,11,1
+15,33,Female,North,-,3,356.847088,-,2022/7/30 1:40,Unemployed,14,1
+16,47,Male,North,Platinum,5,575.6191715,Books,2023/6/6 4:14,Student,10,0
+17,38,Male,East,-,15,1480.610583,Electronics,2022/7/30 7:32,Engineer,-,1
+18,25,Female,North,Gold,3,-,Clothing,-,Artist,17,1
+19,40,Male,South,Bronze,6,651.5347565,Home Goods,-,Doctor,6,1
+20,77,Other,West,Silver,5,647.3415787,Home Goods,2023/11/19 4:59,-,6,-
+21,20,Other,East,Bronze,6,603.7198183,Clothing,2023/10/6 10:33,Student,10,0
+22,28,Female,South,Bronze,10,993.449047,Sports,2023/6/24 0:11,-,-,-
+23,35,Female,West,Gold,5,546.9302086,Books,2023/8/22 0:12,Engineer,6,0
+24,47,Other,West,Silver,6,668.2699848,Home Goods,2023/6/21 7:44,Other,-,0
+25,57,Other,East,Gold,7,784.8282673,Home Goods,2023/4/27 20:32,Student,7,1
+26,47,Female,-,Bronze,12,-,Books,2023/6/4 18:52,-,-,0
+27,63,Other,West,Gold,8,891.8235621,Books,-,Student,11,-
+28,33,Male,-,Platinum,8,820.1011548,Home Goods,2022/6/9 20:46,-,9,1
+29,70,Male,East,Platinum,-,723.2571637,Books,2023/10/9 12:08,Engineer,9,0
+30,60,Female,-,Gold,2,-,Books,2023/8/13 15:31,Engineer,10,0
+31,67,Male,West,Gold,3,438.1324829,Clothing,2023/8/28 10:01,Student,10,0
+32,79,Female,East,Gold,8,930.0755126,Books,-,Engineer,13,1
+33,27,-,East,-,6,620.4550467,Clothing,2023/8/9 10:35,-,9,0
+34,74,-,South,Gold,11,-,Electronics,-,Other,9,1
+35,28,Female,East,Platinum,3,344.8933535,Books,2023/9/23 21:13,Engineer,10,0
+36,64,Other,-,Silver,-,523.6110555,Clothing,-,Engineer,-,0
+37,62,Female,North,Gold,7,796.7820018,Electronics,2023/6/14 21:15,-,9,0
+38,69,Female,West,Silver,5,628.2156034,Books,2023/11/26 2:42,Artist,16,0
+39,62,Other,South,Gold,7,796.7820018,Books,2023/7/26 2:27,Engineer,16,0
+40,77,Male,East,Silver,7,832.6432054,Sports,2022/3/14 21:55,Student,12,1
+41,35,Female,South,Platinum,5,546.9302086,Home Goods,2023/9/20 18:05,Other,10,0
+42,75,Female,West,Bronze,7,827.8617116,Sports,2022/6/23 2:40,Student,10,1
+43,27,Female,East,Silver,5,527.8042333,Books,2022/3/12 18:04,Student,6,1
+44,36,Male,East,Platinum,6,641.9717688,Sports,2022/4/16 11:46,Unemployed,7,1
+45,25,Male,South,Silver,2,245.0702994,Sports,2022/8/5 4:49,Engineer,6,1
+46,67,Other,North,Platinum,4,530.7832962,Books,2023/10/9 19:31,Other,9,0
+47,77,Female,West,Bronze,11,1203.246459,Home Goods,2023/12/19 12:00,Artist,12,0
+48,22,Other,West,Platinum,8,793.8029389,Electronics,2023/10/28 18:50,Student,5,0
+49,51,Other,West,Gold,9,955.7854125,Books,2023/6/13 18:27,Student,11,0
+50,27,Female,East,Gold,5,527.8042333,Books,2023/6/1 21:01,Other,10,0
+51,43,Female,East,Silver,3,380.7545571,Clothing,2023/7/20 12:56,Unemployed,7,0
+52,38,Other,East,Gold,5,554.1024493,Electronics,2023/11/13 7:14,Doctor,13,0
+53,43,Male,South,Gold,3,380.7545571,Books,2023/12/3 13:38,Unemployed,6,0
+54,27,Other,West,Bronze,5,527.8042333,Home Goods,2023/6/9 8:39,Student,11,0
+55,36,Male,West,Gold,5,549.3209555,Electronics,2022/3/24 23:02,Other,8,1
+56,56,Male,West,Gold,3,411.8342669,Clothing,2022/5/15 3:52,Student,7,1
+57,35,Other,North,Silver,4,454.2793952,Electronics,2023/9/24 16:38,Engineer,9,0
+58,51,Female,East,Gold,6,677.8329724,Clothing,2022/2/15 23:50,Doctor,11,1
+59,40,Other,West,Gold,9,929.4871966,Books,2023/6/23 19:13,Student,10,0
+60,51,Other,West,Platinum,6,677.8329724,Books,2022/1/6 12:22,Artist,11,1
+61,36,Male,East,Platinum,5,549.3209555,Electronics,2023/8/4 7:32,Other,8,0
+62,78,Other,East,Silver,8,927.6847657,Home Goods,2023/8/4 1:27,Student,9,0
+63,58,Female,West,Silver,4,509.2665741,Sports,2023/9/12 9:47,Other,11,0
+64,59,Other,South,Silver,6,696.9589477,Electronics,2023/10/27 11:08,Unemployed,7,0
+65,24,Other,South,Gold,8,798.5844327,Sports,2022/4/1 3:56,Other,9,1
+66,57,Male,South,Gold,2,321.5742004,Books,2022/1/17 8:41,Unemployed,14,1
+67,21,Female,South,Gold,8,791.412192,Home Goods,2023/11/22 5:29,Other,13,0
+68,72,Female,North,Gold,8,913.3402842,Electronics,2022/3/19 1:21,Engineer,14,1
+69,35,Male,South,Gold,5,546.9302086,Sports,2022/11/28 19:04,Student,4,1
+70,75,Female,West,Gold,6,735.2108982,Electronics,2023/3/22 4:26,Student,14,1
+71,67,Female,West,Platinum,7,808.7357363,Electronics,2023/12/3 5:06,Engineer,13,0
+72,63,Other,West,Silver,5,613.871122,Home Goods,2023/9/12 14:20,Other,4,0
+73,36,Male,South,Silver,5,549.3209555,Sports,2023/6/12 2:10,Other,10,0
+74,38,Female,East,Gold,4,461.4516359,Books,2023/11/29 7:44,Student,9,0
+75,74,Male,West,Bronze,8,918.121778,Books,2023/11/18 12:49,Doctor,4,0
+76,36,Other,South,Platinum,3,364.0193287,Books,2023/11/7 21:11,Engineer,9,0
+77,27,Female,North,Silver,2,249.8517932,Clothing,2022/3/2 18:00,Engineer,10,1
+78,28,Male,North,Platinum,5,530.1949802,Clothing,2023/9/27 11:57,Other,10,0
+79,45,Female,West,Gold,9,941.4409311,Home Goods,2023/5/8 12:18,Doctor,8,1
+80,52,Male,East,Platinum,10,1050.826973,Sports,2022/3/24 15:02,Artist,11,1
+81,40,Other,North,Silver,5,558.8839431,Sports,2022/9/20 15:45,Student,8,1
+82,20,Other,South,Platinum,10,974.3230718,Clothing,2023/7/18 15:45,Student,8,0
+83,38,Female,South,Platinum,3,368.8008226,Clothing,2023/8/30 7:31,Artist,5,0
+84,35,Female,North,Bronze,8,824.8826487,Clothing,2023/10/21 16:22,Other,10,0
+85,27,Male,West,Platinum,4,435.1534199,Home Goods,2023/6/11 4:41,Unemployed,8,0
+86,70,Female,West,Silver,10,1093.860417,Electronics,2023/8/3 17:33,Engineer,15,0
+87,66,Other,North,Silver,7,806.3449894,Electronics,2022/12/2 17:59,Engineer,10,1
+88,28,Other,South,Silver,7,715.4966069,Electronics,2023/11/27 22:46,Other,10,0
+89,20,Other,East,Silver,7,696.3706317,Sports,2023/11/25 0:49,Unemployed,8,0
+90,67,Female,South,Gold,6,716.084923,Electronics,2023/10/24 10:48,Doctor,10,0
+91,57,Male,East,Bronze,5,599.5266405,Home Goods,2023/10/19 20:31,Unemployed,14,0
+92,47,Other,East,Gold,5,575.6191715,Clothing,2022/5/20 6:28,Doctor,8,1
+93,63,Other,North,Silver,6,706.5219353,Sports,2022/10/10 22:12,Engineer,10,1
+94,62,Female,West,Platinum,5,611.4803751,Electronics,2023/6/30 1:46,Student,13,0
+95,52,Female,East,Silver,6,680.2237194,Clothing,2022/5/6 16:04,Other,11,1
+96,57,Female,South,Silver,7,784.8282673,Sports,2023/7/9 4:36,Doctor,10,0
+97,54,Female,West,Bronze,6,685.0052132,Books,2023/10/15 0:57,Other,8,0
+98,35,Male,West,Bronze,4,454.2793952,Home Goods,2022/6/17 6:42,Engineer,15,1
+99,38,Female,South,Platinum,4,461.4516359,Home Goods,2023/10/9 8:34,Engineer,11,0
+100,56,Male,North,Gold,8,875.0883337,Home Goods,2022/4/23 11:09,Doctor,13,1
+101,59,Male,West,Silver,2,326.3556943,Home Goods,2023/11/20 13:23,Artist,14,0
+102,67,Other,East,Bronze,4,530.7832962,Home Goods,2023/12/18 14:08,Doctor,12,0
+103,35,Other,South,Platinum,3,361.6285818,Electronics,2023/5/14 4:11,Engineer,8,1
+104,22,Female,East,Silver,6,608.5013121,Electronics,2022/1/17 1:40,Student,12,1
+105,67,Other,South,Gold,5,623.4341096,Books,2023/8/19 19:31,Unemployed,13,0
+106,79,Male,South,Gold,7,837.4246992,Sports,2023/8/18 5:13,Artist,13,0
+107,37,Female,West,Bronze,4,459.060889,Electronics,2023/6/16 20:09,Engineer,15,0
+108,40,Female,South,Gold,7,744.1855698,Home Goods,2023/9/7 15:07,Student,8,0
+109,70,Female,West,Platinum,5,630.6063503,Clothing,2023/8/20 10:25,Artist,16,0
+110,75,Female,South,Bronze,5,642.5600849,Clothing,2023/10/23 19:18,Student,8,0
+111,27,Other,West,Silver,7,713.10586,Sports,2023/10/22 22:47,Other,10,0
+112,25,Female,West,Bronze,8,800.9751796,Books,2022/3/30 1:06,Engineer,15,1
+113,27,Male,North,Platinum,3,342.5026066,Books,2023/6/16 18:27,Student,10,0
+114,28,Female,West,Platinum,5,530.1949802,Electronics,2023/4/11 10:22,Other,9,1
+115,69,Other,West,Gold,7,813.5172301,Books,2023/4/2 10:14,Engineer,12,1
+116,60,Male,West,Silver,10,1069.952948,Books,2022/8/6 23:58,Student,13,1
+117,47,Other,North,Platinum,7,760.9207982,Home Goods,2023/11/6 10:51,Student,14,0
+118,59,Other,East,Gold,9,974.9113878,Clothing,2023/4/24 19:04,Artist,9,1
+119,65,Other,East,Silver,7,803.9542425,Electronics,2023/11/23 12:22,Unemployed,8,0
+120,38,Other,North,Silver,6,646.7532627,Books,2023/7/26 15:38,Other,10,0
+121,21,Female,West,Platinum,9,884.0630053,Books,2023/6/22 0:47,Artist,14,0
+122,67,Other,West,Silver,12,1271.989803,Clothing,2023/10/25 0:19,Doctor,11,0
+123,35,Female,South,Silver,5,546.9302086,Sports,2023/7/28 6:05,Doctor,7,0
+124,47,Female,East,Gold,4,482.9683581,Electronics,2022/6/11 14:52,Engineer,11,1
+125,27,Other,West,Bronze,5,527.8042333,Books,2023/11/28 21:00,Student,9,0
+126,60,Male,West,Silver,6,699.3496946,Electronics,2022/1/7 15:03,Artist,12,1
+127,67,Other,East,Gold,4,530.7832962,Electronics,2023/6/20 12:05,Student,8,0
+128,20,Other,West,Gold,4,418.4181916,Sports,2023/8/21 2:34,Other,6,0
+129,67,Female,North,Gold,8,901.3865497,Books,2023/6/21 1:12,Unemployed,15,0
+130,53,Female,West,Platinum,6,682.6144663,Electronics,2023/11/5 7:28,Other,12,0
+131,50,Female,West,Platinum,4,490.1405988,Books,2023/7/23 2:53,Student,10,0
+132,49,Female,East,Bronze,10,1043.654732,Books,2023/8/2 13:00,Engineer,10,0
+133,32,Other,North,Platinum,4,447.1071545,Home Goods,2023/9/25 11:24,Artist,10,0
+134,36,Male,South,Gold,6,641.9717688,Sports,2023/8/18 21:12,Doctor,9,0
+135,67,Male,East,Gold,7,808.7357363,Electronics,2023/12/24 3:40,Unemployed,7,0
+136,27,Male,South,Bronze,9,898.4074868,Electronics,2023/7/9 1:59,Student,9,0
+137,56,Male,South,Gold,5,597.1358936,Books,2023/6/4 23:18,Other,11,0
+138,33,Female,North,Platinum,6,634.7995281,Electronics,2023/11/26 12:40,Unemployed,12,0
+139,70,Other,South,Gold,3,445.3047236,Home Goods,2023/11/28 19:06,Unemployed,9,0
+140,26,Female,North,Bronze,7,710.7151131,Home Goods,2022/12/21 8:45,Unemployed,13,1
+141,19,Female,West,Bronze,4,416.0274447,Clothing,2023/11/15 14:50,Other,11,0
+142,27,Other,North,Bronze,9,898.4074868,Electronics,2023/6/7 13:46,Unemployed,7,0
+143,75,Other,East,Silver,7,827.8617116,Electronics,2023/6/2 9:37,Artist,13,0
+144,40,Other,South,Platinum,6,651.5347565,Sports,2023/7/17 3:08,Unemployed,10,0
+145,54,Female,North,Bronze,3,407.0527731,Books,2023/10/17 9:10,Unemployed,7,0
+146,19,Male,East,Silver,8,786.6306981,Sports,2023/12/27 0:21,Artist,9,0
+147,54,Female,North,Platinum,5,592.3543998,Home Goods,2023/12/16 21:34,Engineer,14,0
+148,53,Female,South,Silver,5,589.9636529,Electronics,2022/10/3 14:39,Doctor,8,1
+149,27,Other,South,Platinum,4,435.1534199,Electronics,2022/8/31 6:38,Doctor,12,1
+150,27,Female,East,Platinum,5,527.8042333,Sports,2023/4/5 22:33,Unemployed,9,1
+151,60,Male,East,Platinum,3,421.3972545,Sports,2023/11/24 7:52,Unemployed,9,0
+152,28,Male,East,Bronze,11,1086.09986,Clothing,2023/2/15 9:57,Doctor,6,1
+153,27,Female,East,Platinum,5,527.8042333,Clothing,2022/8/3 20:30,Student,12,1
+154,22,Other,East,Silver,4,423.1996854,Clothing,2023/6/7 14:33,Student,11,0
+155,67,Female,South,Gold,5,623.4341096,Sports,2023/6/10 14:58,Unemployed,10,0
+156,50,Male,West,Gold,5,582.7914122,Books,2023/8/23 18:05,Doctor,12,0
+157,20,Male,East,Platinum,9,881.6722584,Sports,2022/12/28 2:32,Student,9,1
+158,21,Female,West,Bronze,3,328.1581251,Home Goods,2023/10/17 1:14,Student,13,0
+159,31,Male,East,Platinum,4,444.7164076,Electronics,2023/7/19 6:53,Doctor,8,0
+160,28,Female,East,Silver,6,622.8457936,Books,2023/12/5 22:01,Student,11,0
+161,70,Male,East,Gold,7,815.907977,Electronics,2023/2/6 19:25,Other,9,1
+162,45,Other,South,Silver,7,756.1393044,Books,2023/6/25 6:30,Doctor,11,0
+163,22,Male,West,Silver,4,423.1996854,Books,2023/5/26 6:37,Artist,8,1
+164,22,Female,South,Gold,5,515.8504988,Home Goods,2023/10/18 8:09,Unemployed,10,0
+165,51,Female,North,Bronze,8,863.1345992,Home Goods,2023/12/29 2:42,Doctor,7,0
+166,34,Other,East,Silver,8,822.4919017,Home Goods,2023/10/30 3:54,Engineer,7,0
+167,74,Male,East,Gold,4,547.5185246,Electronics,2023/11/23 14:29,Other,14,0
+168,27,Female,West,Bronze,5,527.8042333,Home Goods,2023/9/30 13:13,Doctor,13,0
+169,67,Male,South,Silver,5,623.4341096,Books,2022/6/10 5:01,Artist,8,1
+170,27,Other,South,Silver,4,435.1534199,Electronics,2023/8/6 0:15,Other,8,0
+171,28,Female,South,Silver,3,344.8933535,Books,2023/6/25 16:05,Engineer,12,0
+172,57,Other,East,Silver,10,1062.780707,Clothing,2023/5/28 8:29,Student,12,1
+173,19,Female,West,Platinum,7,693.9798848,Electronics,2023/2/10 5:38,Engineer,13,1
+174,45,Male,North,Bronze,4,478.1868643,Books,2023/8/19 13:46,Engineer,10,0
+175,27,Female,North,Silver,9,898.4074868,Books,2023/6/1 12:05,Other,13,0
+176,67,Other,South,Gold,7,808.7357363,Electronics,2023/12/13 20:16,Student,17,0
+177,50,Female,West,Platinum,6,675.4422255,Clothing,2023/11/13 19:37,Engineer,7,0
+178,50,Other,South,Gold,6,675.4422255,Electronics,2023/7/15 0:52,Student,11,0
+179,36,Female,South,Gold,3,364.0193287,Home Goods,2022/10/10 15:51,Engineer,14,1
+180,38,Other,South,Bronze,3,368.8008226,Home Goods,2023/9/27 2:30,Student,10,0
+181,76,Male,North,Gold,7,830.2524585,Home Goods,2022/4/18 5:04,Doctor,9,1
+182,57,Female,North,Platinum,4,506.8758272,Sports,2023/6/18 23:26,Artist,16,0
+183,47,Male,South,Silver,5,575.6191715,Clothing,2023/11/11 2:46,Artist,8,0
+184,66,Female,West,Silver,7,806.3449894,Electronics,2022/1/12 11:05,Engineer,19,1
+185,59,Female,North,Gold,9,974.9113878,Sports,2023/10/10 22:37,Artist,10,0
+186,25,Male,South,Bronze,5,523.0227395,Clothing,2023/10/31 21:05,Artist,12,0
+187,78,Other,North,Bronze,3,464.4306989,Books,2023/6/24 19:36,Engineer,11,0
+188,25,Male,East,Silver,9,893.6259929,Electronics,2023/4/19 13:22,Student,7,1
+189,63,Male,East,Silver,5,613.871122,Home Goods,2023/6/3 20:44,Unemployed,6,0
+190,69,Female,North,Gold,5,628.2156034,Clothing,2023/7/25 19:06,Doctor,8,0
+191,40,Other,South,Bronze,10,1022.13801,Books,2023/6/24 21:14,Artist,11,0
+192,20,Other,North,Gold,13,1252.275512,Clothing,2023/12/29 19:53,Engineer,9,0
+193,60,Male,West,Silver,4,514.0480679,Books,2023/6/26 5:10,Student,11,0
+194,27,Male,South,Silver,8,805.7566734,Clothing,2023/7/20 11:15,Other,11,0
+195,24,Other,South,Gold,7,705.9336193,Home Goods,2022/6/26 21:25,Engineer,14,1
+196,33,Male,South,Bronze,6,634.7995281,Sports,2023/7/26 13:21,Unemployed,14,0
+197,66,Female,South,Silver,11,1176.948243,Books,2023/10/3 9:03,Artist,9,0
+198,59,Female,West,Silver,6,696.9589477,Electronics,2023/9/26 1:59,Other,6,0
+199,75,Male,North,Bronze,3,457.2584581,Electronics,2023/11/27 15:19,Unemployed,12,0
+200,28,Female,North,Silver,5,530.1949802,Clothing,2022/5/7 11:24,Student,12,1
+201,70,Other,East,Bronze,8,908.5587904,Sports,2023/5/11 5:01,Doctor,9,1
+202,40,Male,South,Bronze,9,929.4871966,Books,2022/5/12 13:12,Artist,10,1
+203,28,Female,East,Silver,1,159.5917268,Sports,2023/6/25 21:26,Student,5,0
+204,75,Male,West,Gold,4,549.9092715,Clothing,2023/2/8 6:28,Engineer,13,1
+205,22,Other,North,Silver,6,608.5013121,Books,2023/12/8 14:04,Engineer,10,0
+206,50,Female,North,Silver,6,675.4422255,Electronics,2023/11/20 1:38,Doctor,5,0
+207,19,Other,South,Silver,4,416.0274447,Electronics,2023/8/30 14:22,Doctor,11,0
+208,50,Male,North,Platinum,5,582.7914122,Books,2023/12/1 2:03,Artist,9,0
+209,59,Male,West,Silver,5,604.3081343,Books,2023/9/17 12:53,Student,15,0
+210,70,Female,West,Gold,5,630.6063503,Books,2023/11/7 9:57,Student,7,0
+211,22,Other,South,Gold,8,793.8029389,Electronics,2023/11/6 15:54,Other,17,0
+212,22,Male,East,Gold,6,608.5013121,Books,2022/8/1 23:08,Doctor,12,1
+213,27,Other,South,Bronze,6,620.4550467,Books,2023/12/13 6:23,Other,11,0
+214,21,Other,West,Platinum,4,420.8089385,Sports,2023/1/1 12:09,Unemployed,9,1
+215,51,Female,North,Platinum,7,770.4837858,Clothing,2023/9/23 7:20,Other,9,0
+216,70,Other,North,Gold,9,1001.209604,Sports,2023/8/19 16:28,Doctor,6,0
+217,25,Male,North,Platinum,6,615.6735529,Clothing,2023/7/24 2:15,Doctor,8,0
+218,27,Male,West,Bronze,4,435.1534199,Clothing,2023/8/14 12:08,Other,11,0
+219,70,Female,East,Silver,4,537.955537,Clothing,2023/12/1 3:29,Other,15,0
+220,65,Other,South,Gold,4,526.0018024,Electronics,2023/9/24 16:59,Engineer,5,0
+221,74,Male,East,Platinum,6,732.8201513,Electronics,2023/10/19 3:27,Doctor,17,0
+222,26,Male,North,Gold,4,432.762673,Books,2023/8/18 1:37,Unemployed,6,0
+223,52,Female,South,Gold,4,494.9220926,Sports,2023/8/29 17:06,Engineer,10,0
+224,30,Other,West,Gold,7,720.2781008,Sports,2023/7/22 1:25,Engineer,3,0
+225,56,Other,West,Gold,4,504.4850803,Books,2023/12/4 23:37,Unemployed,7,0
+226,26,Other,East,Silver,9,896.0167399,Sports,2023/9/12 19:20,Unemployed,13,0
+227,27,Male,South,Gold,6,620.4550467,Books,2023/12/24 4:21,Engineer,8,0
+228,27,Male,North,Platinum,8,805.7566734,Home Goods,2023/6/23 22:36,Engineer,7,0
+229,40,Female,East,Platinum,6,651.5347565,Sports,2022/9/18 13:43,Engineer,12,1
+230,34,Male,West,Bronze,8,822.4919017,Electronics,2023/8/1 22:40,Unemployed,7,0
+231,53,Female,South,Bronze,8,867.916093,Home Goods,2022/8/11 12:16,Student,10,1
+232,47,Female,South,Platinum,3,390.3175447,Books,2022/12/29 21:38,Artist,10,1
+233,20,Other,West,Gold,4,418.4181916,Electronics,2023/2/18 14:48,Artist,13,1
+234,68,Female,North,Platinum,4,533.1740431,Sports,2023/6/30 22:34,Other,6,0
+235,69,Other,North,Bronze,3,442.9139767,Clothing,2023/12/11 11:19,Other,11,0
+236,66,Other,West,Gold,4,528.3925493,Books,2023/10/2 4:17,Doctor,8,0
+237,67,Male,West,Platinum,5,623.4341096,Sports,2023/6/26 20:34,Unemployed,14,0
+238,20,Male,North,Silver,11,1066.973885,Sports,2023/11/10 6:37,Engineer,11,0
+239,63,Female,East,Platinum,6,706.5219353,Books,2022/3/1 5:35,Student,4,1
+240,34,Female,East,Bronze,2,266.5870216,Books,2023/6/25 2:53,Doctor,13,0
+241,25,Female,South,Platinum,12,1171.578433,Books,2023/6/21 19:37,Other,11,0
+242,79,Female,South,Gold,5,652.1230725,Sports,2023/3/13 19:29,Doctor,17,1
+243,51,Male,East,Platinum,8,863.1345992,Home Goods,2022/4/15 5:53,Engineer,11,1
+244,66,Female,South,Bronze,5,621.0433627,Clothing,2023/10/16 23:43,Unemployed,12,0
+245,27,Other,East,Platinum,3,342.5026066,Sports,2023/7/18 13:20,Artist,13,0
+246,27,Male,South,Gold,3,342.5026066,Books,2023/6/15 10:59,Student,5,0
+247,35,Other,East,Platinum,10,1010.184275,Home Goods,2022/9/22 13:53,Engineer,5,1
+248,38,Female,South,Bronze,4,461.4516359,Clothing,2023/6/8 4:48,Student,10,0
+249,35,Male,South,Silver,5,546.9302086,Home Goods,2022/6/5 12:15,Unemployed,8,1
+250,27,Other,East,Platinum,6,620.4550467,Books,2023/8/27 6:23,Unemployed,10,0
+251,19,Male,North,Platinum,10,971.9323249,Clothing,2023/3/31 5:41,Doctor,8,1
+252,20,Other,East,Bronze,5,511.069005,Home Goods,2023/10/20 7:02,Engineer,13,0
+253,52,Male,East,Bronze,9,958.1761594,Home Goods,2023/10/21 6:57,Doctor,6,0
+254,54,Other,West,Platinum,6,685.0052132,Home Goods,2022/4/2 9:21,Doctor,13,1
+255,40,Other,North,Bronze,6,651.5347565,Clothing,2023/8/8 1:03,Student,9,0
+256,26,Other,South,Bronze,11,1081.318367,Books,2023/12/19 10:30,Other,11,0
+257,35,Male,North,Gold,7,732.2318353,Clothing,2023/11/7 13:55,Engineer,9,0
+258,72,Other,North,Platinum,5,635.3878441,Home Goods,2023/9/17 2:02,Engineer,7,0
+259,38,Other,North,Platinum,6,646.7532627,Home Goods,2023/8/21 0:41,Unemployed,6,0
+260,42,Female,West,Silver,7,748.9670636,Books,2023/7/16 9:19,Artist,7,0
+261,74,Other,West,Silver,6,732.8201513,Electronics,2022/6/10 9:19,Engineer,13,1
+262,76,Female,South,Bronze,5,644.9508318,Books,2023/9/17 7:57,Doctor,8,0
+263,56,Male,East,Bronze,4,504.4850803,Clothing,2023/8/25 7:55,Engineer,12,0
+264,36,Other,North,Platinum,4,456.6701421,Home Goods,2022/12/26 14:12,Artist,9,1
+265,28,Male,South,Silver,4,437.5441669,Sports,2023/8/30 22:36,Student,9,0
+266,33,Female,South,Platinum,6,634.7995281,Home Goods,2023/12/29 16:21,Other,10,0
+267,34,Female,West,Platinum,8,822.4919017,Electronics,2022/1/4 19:49,Unemployed,5,1
+268,33,Male,East,Platinum,4,449.4979014,Electronics,2023/11/3 10:25,Unemployed,4,0
+269,50,Other,East,Silver,4,490.1405988,Books,2022/6/27 1:40,Other,5,1
+270,27,Male,West,Platinum,7,713.10586,Sports,2023/6/27 17:44,Engineer,9,0
+271,27,Female,North,Silver,5,527.8042333,Clothing,2023/8/22 5:58,Student,10,0
+272,35,Female,West,Silver,8,824.8826487,Books,2022/9/23 9:31,Engineer,7,1
+273,27,Other,South,Bronze,9,898.4074868,Home Goods,2022/11/12 21:39,Unemployed,6,1
+274,70,Female,West,Platinum,5,630.6063503,Sports,2023/7/23 20:32,Student,16,0
+275,20,Other,East,Silver,5,511.069005,Home Goods,2022/6/22 10:33,Engineer,14,1
+276,51,Other,North,Bronze,5,585.1821591,Sports,2023/10/8 3:49,Unemployed,7,0
+277,66,Other,South,Bronze,5,621.0433627,Sports,2022/6/11 9:27,Engineer,12,1
+278,35,Female,South,Silver,5,546.9302086,Sports,2023/8/16 2:08,Other,10,0
+279,27,Male,East,Gold,9,898.4074868,Clothing,2023/7/13 22:22,Other,11,0
+280,27,Male,West,Bronze,7,713.10586,Sports,2023/11/18 21:25,Doctor,7,0
+281,63,Female,South,Silver,5,613.871122,Books,2023/6/9 23:25,Artist,11,0
+282,33,Male,West,Bronze,9,912.7519682,Electronics,2022/3/10 23:16,Doctor,20,1
+283,58,Male,South,Gold,3,416.6157607,Sports,2023/10/2 7:31,Student,9,0
+284,74,Female,East,Platinum,8,918.121778,Clothing,2022/12/29 10:24,Doctor,7,1
+285,40,Male,South,Silver,6,651.5347565,Home Goods,2023/11/14 21:54,Unemployed,5,0
+286,18,Female,South,Platinum,15,1432.795645,Sports,2022/10/7 12:36,Other,7,1
+287,30,Other,North,Bronze,11,1090.881354,Electronics,2023/11/13 7:12,Unemployed,6,0
+288,51,Other,South,Gold,7,770.4837858,Clothing,2023/4/12 6:38,Other,13,1
+289,20,Male,East,Gold,4,418.4181916,Clothing,2023/7/14 13:43,Other,9,0
+290,79,Female,South,Bronze,10,1115.377139,Home Goods,2023/11/20 7:59,Other,10,0
+291,53,Other,East,Silver,10,1053.21772,Sports,2023/9/19 6:35,Other,12,0
+292,34,Female,West,Silver,8,822.4919017,Books,2022/9/21 14:04,Other,11,1
+293,40,Female,East,Bronze,5,558.8839431,Sports,2022/7/30 9:46,Engineer,8,1
+294,76,Female,West,Gold,10,1108.204899,Clothing,2022/4/22 0:18,Doctor,12,1
+295,58,Male,South,Platinum,8,879.8698275,Sports,2023/8/21 4:20,Student,12,0
+296,65,Other,East,Gold,8,896.6050559,Books,2023/11/26 13:18,Artist,13,0
+297,33,Male,North,Gold,4,449.4979014,Books,2022/4/9 12:40,Doctor,11,1
+298,27,Female,East,Gold,5,527.8042333,Clothing,2023/11/21 5:02,Student,12,0
+299,56,Other,West,Bronze,2,319.1834535,Electronics,2023/12/1 15:20,Doctor,9,0
+300,41,Male,West,Platinum,5,561.27469,Clothing,2023/12/28 3:22,Doctor,15,0
+301,63,Other,North,Gold,6,706.5219353,Books,2023/10/17 8:04,Engineer,10,0
+302,57,Male,East,Bronze,9,970.129894,Books,2023/8/12 6:23,Other,8,0
+303,27,Female,South,Silver,5,527.8042333,Sports,2023/9/13 21:39,Unemployed,8,0
+304,51,Other,East,Silver,4,492.5313457,Home Goods,2023/8/9 10:33,Other,13,0
+305,60,Female,East,Gold,8,884.6513213,Books,2023/10/31 0:57,Artist,6,0
+306,36,Female,East,Gold,10,1012.575022,Electronics,2023/6/16 17:55,Artist,10,0
+307,67,Other,North,Platinum,8,901.3865497,Clothing,2023/10/18 7:38,Doctor,13,0
+308,42,Other,North,Gold,6,656.3162503,Books,2023/1/31 10:45,Engineer,9,1
+309,74,Male,North,Silver,5,640.1693379,Sports,2022/10/17 18:43,Doctor,8,1
+310,67,Male,North,Bronze,5,623.4341096,Sports,2023/9/17 16:23,Doctor,7,0
+311,50,Female,North,Bronze,4,490.1405988,Home Goods,2023/9/18 1:41,Student,8,0
+312,35,Male,South,Platinum,7,732.2318353,Clothing,2022/7/5 9:08,Engineer,6,1
+313,63,Other,East,Bronze,6,706.5219353,Books,2023/11/4 3:37,Student,14,0
+314,28,Other,East,Platinum,7,715.4966069,Home Goods,2023/12/10 5:08,Doctor,8,0
+315,27,Other,South,Gold,6,620.4550467,Electronics,2023/9/25 16:13,Artist,7,0
+316,25,Female,South,Bronze,7,708.3243662,Books,2023/6/6 16:23,Doctor,8,0
+317,27,Male,South,Platinum,4,435.1534199,Home Goods,2022/4/30 2:38,Artist,15,1
+318,36,Male,South,Platinum,4,456.6701421,Electronics,2023/7/7 16:34,Student,13,0
+319,70,Male,North,Gold,3,445.3047236,Sports,2023/7/12 1:48,Doctor,5,0
+320,37,Male,East,Silver,3,366.4100757,Clothing,2023/9/3 1:45,Doctor,14,0
+321,27,Male,South,Bronze,8,805.7566734,Clothing,2022/1/10 18:31,Student,6,1
+322,28,Male,West,Gold,6,622.8457936,Electronics,2022/11/9 15:08,Artist,10,1
+323,65,Male,South,Bronze,14,1452.509936,Books,2023/4/2 8:07,Other,13,1
+324,61,Female,East,Silver,7,794.3912549,Clothing,2023/9/29 2:07,Student,13,0
+325,75,Male,West,Bronze,8,920.5125249,Clothing,2023/11/26 7:42,Doctor,3,0
+326,19,Male,South,Platinum,3,323.3766313,Electronics,2023/9/3 20:24,Engineer,6,0
+327,27,Male,North,Bronze,7,713.10586,Electronics,2023/6/5 18:27,Doctor,6,0
+328,70,Female,North,Platinum,5,630.6063503,Sports,2023/9/30 2:05,Student,9,0
+329,66,Male,West,Silver,5,621.0433627,Electronics,2023/7/7 7:46,Doctor,17,0
+330,27,Female,North,Platinum,6,620.4550467,Electronics,2023/9/30 6:20,Artist,10,0
+331,70,Female,West,Gold,4,537.955537,Home Goods,2022/11/20 7:08,Other,8,1
+332,27,Female,South,Platinum,6,620.4550467,Books,2023/12/22 7:58,Artist,9,0
+333,22,Other,East,Platinum,2,237.8980587,Home Goods,2022/7/18 20:35,Doctor,8,1
+334,59,Male,West,Gold,8,882.2605744,Electronics,2022/11/17 12:24,Other,10,1
+335,21,Other,South,Platinum,2,235.5073118,Sports,2023/9/21 23:58,Engineer,7,0
+336,69,Male,West,Platinum,5,628.2156034,Books,2023/12/24 18:51,Student,8,0
+337,64,Female,East,Gold,7,801.5634956,Home Goods,2023/10/13 19:06,Student,10,0
+338,20,Female,North,Platinum,5,511.069005,Home Goods,2023/12/4 19:03,Engineer,16,0
+339,78,Male,North,Platinum,4,557.0815122,Books,2023/9/25 21:12,Student,9,0
+340,44,Male,West,Bronze,5,568.4469307,Electronics,2023/8/7 18:52,Unemployed,10,0
+341,22,Female,East,Bronze,8,793.8029389,Books,2023/6/30 8:36,Other,8,0
+342,77,Male,South,Platinum,5,647.3415787,Home Goods,2023/7/5 20:53,Other,9,0
+343,70,Male,South,Gold,4,537.955537,Clothing,2023/8/3 1:52,Other,12,0
+344,77,Other,South,Gold,7,832.6432054,Books,2022/10/19 5:48,Student,9,1
+345,70,Female,West,Bronze,2,352.6539102,Sports,2023/11/13 14:37,Engineer,12,0
+346,43,Other,North,Gold,3,380.7545571,Home Goods,2023/4/18 10:00,Unemployed,6,1
+347,70,Female,West,Gold,4,537.955537,Home Goods,2023/3/2 19:15,Engineer,8,1
+348,27,Other,West,Bronze,5,527.8042333,Clothing,2022/12/2 23:18,Student,8,1
+349,70,Male,West,Silver,5,630.6063503,Clothing,2022/2/27 0:44,Student,8,1
+350,35,Male,South,Bronze,4,454.2793952,Clothing,2022/7/24 23:10,Unemployed,12,1
+351,28,Female,East,Gold,5,530.1949802,Clothing,2023/10/16 10:18,Artist,17,0
+352,77,Female,West,Platinum,6,739.992392,Electronics,2022/9/27 5:15,Engineer,3,1
+353,27,Female,South,Gold,12,1176.359927,Books,2023/9/26 20:52,Doctor,12,0
+354,67,Other,West,Platinum,8,901.3865497,Sports,2023/10/9 23:27,Other,3,0
+355,30,Female,West,Platinum,6,627.6272874,Sports,2023/2/4 16:42,Engineer,6,1
+356,25,Male,South,Platinum,3,337.7211128,Home Goods,2023/11/22 16:29,Unemployed,5,0
+357,20,Female,East,Silver,7,696.3706317,Electronics,2023/7/16 15:14,Engineer,11,0
+358,57,Male,East,Silver,6,692.1774539,Home Goods,2023/6/10 12:03,Artist,6,0
+359,22,Other,North,Bronze,4,423.1996854,Sports,2023/8/27 11:21,Engineer,7,0
+360,38,Male,West,Silver,7,739.404076,Books,2022/4/1 10:12,Engineer,5,1
+361,34,Male,North,Platinum,8,822.4919017,Electronics,2023/7/5 6:02,Engineer,6,0
+362,63,Other,South,Gold,6,706.5219353,Electronics,2023/9/15 21:22,Doctor,9,0
+363,35,Male,West,Gold,8,824.8826487,Sports,2023/9/9 10:42,Other,9,0
+364,53,Other,South,Platinum,6,682.6144663,Home Goods,2023/8/5 8:54,Artist,6,0
+365,47,Other,North,Gold,5,575.6191715,Books,2023/10/31 2:29,Unemployed,12,0
+366,27,Other,South,Gold,2,249.8517932,Electronics,2022/7/8 10:18,Other,7,1
+367,74,Male,South,Silver,5,640.1693379,Home Goods,2023/9/14 17:59,Artist,6,0
+368,25,Other,East,Platinum,6,615.6735529,Electronics,2023/4/19 18:40,Engineer,15,1
+369,37,Female,West,Gold,9,922.3149558,Home Goods,2023/12/5 12:31,Unemployed,11,0
+370,38,Male,West,Gold,8,832.0548894,Clothing,2023/11/3 12:04,Artist,9,0
+371,40,Male,West,Gold,5,558.8839431,Home Goods,2023/10/26 21:04,Artist,6,0
+372,53,Female,South,Platinum,8,867.916093,Sports,2023/11/4 18:12,Doctor,14,0
+373,20,Female,East,Platinum,4,418.4181916,Books,2023/6/28 22:36,Doctor,9,0
+374,26,Female,North,Bronze,6,618.0642998,Electronics,2023/8/16 14:20,Artist,8,0
+375,36,Female,West,Bronze,6,641.9717688,Home Goods,2023/12/2 5:58,Other,11,0
+376,27,Other,South,Gold,9,898.4074868,Sports,2023/12/25 18:26,Unemployed,12,0
+377,22,Male,East,Silver,6,608.5013121,Books,2023/11/21 23:30,Engineer,12,0
+378,47,Male,East,Silver,8,853.5716115,Home Goods,2023/9/25 15:47,Engineer,13,0
+379,50,Female,West,Platinum,4,490.1405988,Home Goods,2023/10/6 12:38,Doctor,8,0
+380,27,Other,East,Platinum,4,435.1534199,Electronics,2023/10/24 7:21,Engineer,9,0
+381,63,Other,East,Bronze,2,335.9186819,Clothing,2023/12/1 10:02,Unemployed,8,0
+382,75,Female,South,Bronze,9,1013.163338,Electronics,2023/8/9 22:34,Student,5,0
+383,22,Female,North,Platinum,10,979.1045656,Clothing,2023/9/13 6:48,Doctor,12,0
+384,70,Female,East,Silver,6,723.2571637,Books,2022/12/18 13:12,Engineer,2,1
+385,69,Female,North,Bronze,9,998.8188569,Electronics,2023/7/31 22:40,Artist,8,0
+386,35,Other,East,Bronze,5,546.9302086,Sports,2023/12/3 4:15,Student,9,0
+387,35,Male,East,Gold,6,639.5810219,Sports,2023/9/5 8:30,Unemployed,6,0
+388,47,Other,East,Silver,7,760.9207982,Sports,2023/3/29 21:57,Unemployed,13,1
+389,59,Male,West,Gold,6,696.9589477,Sports,2023/12/19 17:01,Other,7,0
+390,27,Male,West,Bronze,6,620.4550467,Clothing,2023/6/29 0:07,Doctor,14,0
+391,27,Male,West,Bronze,6,620.4550467,Home Goods,2023/11/10 21:43,Student,10,0
+392,51,Other,North,Bronze,6,677.8329724,Books,2023/10/28 23:23,Other,12,0
+393,50,Female,North,Bronze,3,397.4897855,Sports,2023/9/20 9:12,Other,10,0
+394,35,Female,West,Platinum,6,639.5810219,Books,2023/10/6 6:57,Other,17,0
+395,59,Other,North,Silver,3,419.0065076,Electronics,2023/8/12 14:34,Engineer,12,0
+396,27,Other,South,Silver,6,620.4550467,Clothing,2022/4/8 3:16,Doctor,7,1
+397,74,Male,North,Silver,5,640.1693379,Clothing,2022/6/9 12:43,Student,12,1
+398,51,Other,South,Silver,7,770.4837858,Clothing,2023/11/16 17:36,Unemployed,6,0
+399,27,Male,West,Gold,11,1083.709113,Home Goods,2023/10/6 15:17,Artist,16,0
+400,68,Other,South,Gold,5,625.8248565,Home Goods,2023/10/29 9:47,Unemployed,8,0
+401,27,Female,West,Gold,9,898.4074868,Clothing,2023/4/7 17:52,Artist,6,1
+402,65,Female,West,Bronze,7,803.9542425,Home Goods,2022/6/21 6:34,Doctor,7,1
+403,70,Female,West,Platinum,7,815.907977,Books,2023/4/13 22:51,Other,15,1
+404,26,Other,North,Silver,7,710.7151131,Books,2023/6/5 8:13,Student,12,0
+405,27,Male,East,Platinum,7,713.10586,Books,2023/8/7 13:24,Doctor,9,0
+406,40,Female,East,Silver,1,188.2806897,Books,2023/6/27 6:57,Doctor,12,0
+407,74,Male,South,Silver,10,1103.423405,Electronics,2023/8/28 17:01,Engineer,9,0
+408,45,Female,East,Gold,8,848.7901177,Electronics,2023/9/7 11:10,Unemployed,12,0
+409,40,Male,West,Bronze,5,558.8839431,Clothing,2022/5/30 16:09,Unemployed,8,1
+410,79,Other,East,Bronze,4,559.4722591,Sports,2023/6/5 21:52,Artist,12,0
+411,63,Other,South,Platinum,3,428.5694952,Home Goods,2022/6/17 20:55,Other,14,1
+412,51,Male,West,Bronze,8,863.1345992,Home Goods,2023/9/28 16:36,Student,4,0
+413,37,Other,North,Gold,6,644.3625157,Clothing,2023/2/2 19:10,Doctor,14,1
+414,35,Male,West,Silver,5,546.9302086,Home Goods,2023/8/28 9:45,Artist,10,0
+415,35,Other,West,Platinum,5,546.9302086,Books,2023/7/15 6:02,Engineer,9,0
+416,27,Other,South,Gold,6,620.4550467,Home Goods,2023/6/29 9:33,Engineer,9,0
+417,20,Male,North,Silver,7,696.3706317,Clothing,2023/6/1 9:13,Engineer,4,0
+418,37,Female,West,Bronze,7,737.0133291,Home Goods,2023/8/8 10:11,Unemployed,10,0
+419,65,Female,North,Platinum,3,433.3509891,Clothing,2023/9/14 20:59,Engineer,7,0
+420,47,Female,West,Platinum,4,482.9683581,Home Goods,2023/8/21 9:04,Other,10,0
+421,27,Male,West,Silver,7,713.10586,Books,2023/6/8 9:37,Student,7,0
+422,59,Female,South,Bronze,6,696.9589477,Sports,2023/9/13 19:26,Doctor,11,0
+423,72,Other,West,Platinum,12,1283.943538,Electronics,2023/6/1 17:10,Engineer,9,0
+424,67,Female,West,Bronze,5,623.4341096,Electronics,2022/6/14 23:37,Doctor,14,1
+425,27,Other,West,Bronze,8,805.7566734,Books,2023/12/30 14:31,Artist,9,0
+426,35,Female,East,Silver,5,546.9302086,Home Goods,2023/10/15 13:33,Unemployed,9,0
+427,27,Female,North,Gold,5,527.8042333,Clothing,2022/2/14 18:36,Other,6,1
+428,35,Male,South,Bronze,6,639.5810219,Home Goods,2022/2/12 12:05,Engineer,11,1
+429,77,Other,South,Platinum,5,647.3415787,Books,2022/7/29 16:26,Student,16,1
+430,37,Other,South,Platinum,4,459.060889,Clothing,2023/12/10 4:41,Engineer,4,0
+431,79,Other,West,Platinum,9,1022.726326,Sports,2023/9/1 8:30,Other,10,0
+432,22,Female,North,Platinum,6,608.5013121,Clothing,2022/7/4 19:58,Engineer,16,1
+433,27,Female,East,Silver,6,620.4550467,Electronics,2023/10/24 22:56,Artist,7,0
+434,25,Male,East,Bronze,9,893.6259929,Home Goods,2023/6/4 9:30,Student,10,0
+435,35,Male,South,Silver,9,917.533462,Sports,2023/8/14 15:15,Engineer,5,0
+436,59,Male,North,Gold,6,696.9589477,Sports,2022/2/4 3:33,Student,7,1
+437,67,Female,East,Bronze,5,623.4341096,Clothing,2023/6/8 13:31,Other,11,0
+438,40,Male,South,Bronze,6,651.5347565,Electronics,2023/6/27 14:36,Unemployed,6,0
+439,69,Other,East,Bronze,7,813.5172301,Electronics,2022/4/6 10:37,Student,11,1
+440,75,Male,East,Gold,3,457.2584581,Electronics,2023/9/20 22:37,Artist,12,0
+441,19,Female,North,Silver,5,508.6782581,Sports,2023/11/24 8:37,Student,9,0
+442,27,Male,South,Bronze,5,527.8042333,Clothing,2022/2/1 18:23,Student,11,1
+443,27,Other,East,Bronze,5,527.8042333,Sports,2023/11/24 16:49,Other,9,0
+444,79,Other,West,Platinum,7,837.4246992,Electronics,2023/7/22 13:51,Unemployed,6,0
+445,70,Other,West,Gold,7,815.907977,Electronics,2023/12/4 19:58,Other,11,0
+446,24,Female,East,Platinum,8,798.5844327,Clothing,2022/4/2 9:17,Other,6,1
+447,79,Other,North,Platinum,6,744.7738858,Electronics,2023/1/4 3:09,Unemployed,14,1
+448,27,Male,North,Silver,8,805.7566734,Sports,2023/7/4 20:23,Doctor,11,0
+449,28,Male,East,Platinum,4,437.5441669,Clothing,2023/8/12 23:50,Student,10,0
+450,70,Other,North,Gold,5,630.6063503,Sports,2023/8/27 9:43,Engineer,12,0
+451,20,Female,North,Gold,5,511.069005,Books,2022/2/19 12:40,Unemployed,15,1
+452,28,Other,West,Bronze,3,344.8933535,Books,2022/7/18 0:37,Unemployed,8,1
+453,36,Male,South,Silver,2,271.3685154,Sports,2023/12/30 14:36,Artist,9,0
+454,22,Male,South,Bronze,3,330.548872,Home Goods,2022/5/9 15:05,Other,11,1
+455,55,Other,East,Platinum,9,965.3484002,Electronics,2023/10/4 19:30,Student,7,0
+456,22,Female,East,Bronze,4,423.1996854,Books,2023/7/11 17:13,Student,10,0
+457,75,Male,East,Gold,5,642.5600849,Sports,2023/8/4 9:00,Student,7,0
+458,70,Female,West,Gold,8,908.5587904,Clothing,2023/7/15 8:56,Artist,8,0
+459,21,Other,West,Platinum,5,513.4597519,Sports,2022/11/25 0:35,Engineer,14,1
+460,20,Male,North,Bronze,5,511.069005,Books,2023/8/19 21:24,Engineer,13,0
+461,70,Male,West,Gold,9,1001.209604,Electronics,2023/12/8 13:59,Engineer,11,0
+462,22,Male,South,Gold,4,423.1996854,Sports,2023/7/10 3:47,Doctor,9,0
+463,27,Male,West,Silver,6,620.4550467,Books,2023/7/25 8:22,Artist,13,0
+464,50,Male,East,Bronze,8,860.7438523,Sports,2022/12/4 15:18,Artist,15,1
+465,27,Male,South,Bronze,4,435.1534199,Sports,2023/10/17 22:32,Other,10,0
+466,31,Other,North,Silver,7,722.6688477,Books,2022/8/5 7:31,Doctor,10,1
+467,60,Male,South,Gold,8,884.6513213,Home Goods,2023/12/8 4:42,Other,6,0
+468,27,Male,West,Silver,10,991.0583001,Clothing,2023/12/12 12:08,Student,8,0
+469,25,Other,West,Silver,9,893.6259929,Clothing,2023/12/12 3:06,Other,3,0
+470,65,Male,North,Silver,9,989.2558692,Clothing,2022/1/17 10:41,Engineer,12,1
+471,20,Male,East,Gold,3,325.7673782,Books,2023/7/13 1:14,Unemployed,7,0
+472,28,Other,North,Platinum,6,622.8457936,Home Goods,2023/8/4 9:22,Engineer,7,0
+473,28,Male,North,Platinum,4,437.5441669,Electronics,2022/6/15 10:24,Other,10,1
+474,28,Male,North,Platinum,6,622.8457936,Electronics,2023/6/12 2:17,Artist,10,0
+475,70,Other,North,Silver,4,537.955537,Electronics,2022/6/9 15:04,Doctor,11,1
+476,25,Male,West,Platinum,9,893.6259929,Home Goods,2023/7/1 0:39,Other,17,0
+477,21,Other,East,Bronze,7,698.7613786,Electronics,2022/4/11 14:40,Doctor,9,1
+478,25,Male,South,Platinum,7,708.3243662,Books,2023/2/19 7:14,Artist,8,1
+479,24,Male,East,Gold,3,335.3303659,Sports,2022/11/14 5:20,Other,7,1
+480,20,Other,East,Silver,4,418.4181916,Electronics,2023/10/26 20:00,Other,6,0
+481,27,Female,North,Silver,11,1083.709113,Sports,2023/9/28 23:50,Artist,10,0
+482,63,Other,East,Platinum,5,613.871122,Home Goods,2023/12/7 18:08,Doctor,11,0
+483,20,Female,North,Silver,9,881.6722584,Clothing,2023/10/3 13:54,Artist,13,0
+484,67,Female,South,Silver,4,530.7832962,Sports,2023/6/30 16:14,Engineer,12,0
+485,36,Male,North,Silver,5,549.3209555,Sports,2023/11/28 11:28,Doctor,7,0
+486,72,Other,South,Silver,6,728.0386575,Electronics,2023/10/11 17:57,Other,12,0
+487,37,Female,East,Bronze,5,551.7117024,Sports,2023/12/8 17:23,Doctor,5,0
+488,47,Female,North,Gold,3,390.3175447,Electronics,2022/4/17 7:24,Unemployed,12,1
+489,70,Female,West,Bronze,5,630.6063503,Clothing,2022/1/7 23:17,Engineer,10,1
+490,22,Female,South,Platinum,4,423.1996854,Sports,2023/12/13 14:56,Other,9,0
+491,71,Other,East,Platinum,6,725.6479106,Clothing,2023/8/19 14:52,Engineer,7,0
+492,37,Male,South,Silver,6,644.3625157,Clothing,2023/11/2 23:14,Student,9,0
+493,37,Male,North,Silver,6,644.3625157,Electronics,2023/7/22 4:32,Unemployed,9,0
+494,50,Female,West,Platinum,6,675.4422255,Clothing,2022/1/29 19:35,Artist,12,1
+495,70,Male,South,Silver,7,815.907977,Sports,2023/5/6 10:27,Doctor,10,1
+496,58,Female,South,Bronze,5,601.9173874,Sports,2023/12/22 6:54,Unemployed,9,0
+497,57,Male,South,Silver,4,506.8758272,Electronics,2023/10/3 20:24,Student,13,0
+498,25,Male,East,Bronze,8,800.9751796,Clothing,2023/12/12 19:15,Student,7,0
+499,44,Other,West,Gold,7,753.7485575,Clothing,2022/7/1 2:40,Engineer,13,1
+500,43,Female,West,Bronze,6,658.7069972,Clothing,2023/6/25 8:42,Doctor,3,0
+501,38,Other,West,Platinum,5,554.1024493,Clothing,2023/2/13 21:31,Student,9,1
+502,20,Male,South,Platinum,5,511.069005,Books,2023/8/11 20:53,Artist,11,0
+503,63,Female,South,Platinum,8,891.8235621,Electronics,2022/9/18 23:38,Engineer,13,1
+504,28,Female,South,Bronze,7,715.4966069,Home Goods,2023/7/25 3:35,Unemployed,13,0
+505,35,Female,South,Gold,3,361.6285818,Home Goods,2022/1/1 7:26,Other,8,1
+506,70,Female,North,Platinum,4,537.955537,Books,2023/11/22 14:20,Doctor,5,0
+507,74,Female,North,Silver,5,640.1693379,Clothing,2022/2/25 0:27,Engineer,5,1
+508,19,Female,East,Bronze,7,693.9798848,Sports,2022/3/26 18:49,Unemployed,12,1
+509,67,Male,South,Gold,6,716.084923,Clothing,2022/2/17 16:46,Other,14,1
+510,63,Female,East,Bronze,9,984.4743754,Clothing,2023/8/7 23:26,Student,8,0
+511,75,Male,West,Bronze,9,1013.163338,Home Goods,2023/7/16 17:45,Student,7,0
+512,75,Other,South,Gold,4,549.9092715,Books,2023/10/3 2:13,Other,9,0
+513,75,Male,North,Bronze,2,364.6076448,Electronics,2022/8/31 11:00,Engineer,7,1
+514,65,Other,South,Platinum,10,1081.906683,Clothing,2022/9/20 17:56,Student,12,1
+515,77,Female,West,Gold,6,739.992392,Electronics,2022/11/20 17:29,Engineer,11,1
+516,26,Male,East,Bronze,2,247.4610463,Electronics,2023/7/27 10:24,Artist,10,0
+517,45,Male,South,Silver,4,478.1868643,Books,2022/4/13 3:09,Student,7,1
+518,65,Male,North,Gold,6,711.3034291,Sports,2023/12/22 17:26,Doctor,10,0
+519,27,Other,West,Silver,7,713.10586,Clothing,2023/11/30 12:18,Student,6,0
+520,32,Female,West,Bronze,6,632.4087812,Home Goods,2023/8/14 18:03,Doctor,9,0
+521,26,Male,East,Silver,5,525.4134864,Home Goods,2023/12/18 22:18,Other,6,0
+522,50,Other,South,Gold,5,582.7914122,Home Goods,2023/7/14 12:36,Engineer,17,0
+523,27,Male,North,Bronze,7,713.10586,Electronics,2023/4/21 2:11,Doctor,16,1
+524,63,Male,South,Gold,7,799.1727487,Sports,2023/10/17 9:49,Student,3,0
+525,55,Male,North,Bronze,5,594.7451467,Sports,2023/11/19 16:42,Unemployed,19,0
+526,60,Male,East,Platinum,6,699.3496946,Books,2023/1/18 10:43,Engineer,15,1
+527,47,Other,West,Platinum,9,946.2224249,Electronics,2023/11/4 22:31,Doctor,9,0
+528,19,Female,East,Platinum,2,230.725818,Sports,2023/6/12 4:28,Student,11,0
+529,25,Female,West,Silver,5,523.0227395,Home Goods,2023/9/4 15:38,Student,15,0
+530,27,Male,South,Silver,3,342.5026066,Home Goods,2023/10/31 18:10,Artist,8,0
+531,62,Other,West,Platinum,10,1074.734442,Home Goods,2023/10/24 14:03,Artist,14,0
+532,55,Female,North,Gold,6,687.3959601,Sports,2023/1/21 3:31,Unemployed,12,1
+533,27,Female,East,Gold,2,249.8517932,Home Goods,2023/10/30 18:30,Other,7,0
+534,40,Male,West,Bronze,5,558.8839431,Sports,2023/9/26 10:13,Engineer,12,0
+535,20,Male,West,Gold,5,511.069005,Sports,2023/6/8 6:50,Artist,13,0
+536,35,Other,South,Gold,7,732.2318353,Clothing,2022/7/5 6:25,Unemployed,10,1
+537,63,Female,South,Silver,6,706.5219353,Home Goods,2022/11/1 2:48,Doctor,7,1
+538,26,Male,South,Gold,5,525.4134864,Sports,2023/11/21 0:29,Engineer,6,0
+539,43,Other,North,Gold,4,473.4053705,Sports,2022/10/3 3:15,Engineer,10,1
+540,62,Other,South,Bronze,4,518.8295617,Home Goods,2023/10/27 13:12,Other,11,0
+541,57,Other,West,Platinum,4,506.8758272,Home Goods,2023/7/19 1:06,Other,9,0
+542,27,Female,North,Platinum,7,713.10586,Home Goods,2023/9/13 17:07,Other,14,0
+543,74,Female,South,Silver,6,732.8201513,Books,2023/5/23 4:05,Artist,9,1
+544,65,Female,West,Silver,10,1081.906683,Home Goods,2022/10/19 1:21,Engineer,9,1
+545,27,Other,North,Bronze,7,713.10586,Clothing,2023/6/16 5:39,Other,4,0
+546,63,Other,West,Silver,9,984.4743754,Electronics,2023/10/8 10:49,Unemployed,8,0
+547,27,Male,South,Bronze,9,898.4074868,Sports,2023/10/15 3:00,Engineer,13,0
+548,70,Male,South,Platinum,6,723.2571637,Home Goods,2023/8/8 2:22,Student,9,0
+549,67,Female,North,Platinum,9,994.0373631,Books,2023/10/30 23:35,Unemployed,10,0
+550,50,Female,East,Bronze,2,304.8389721,Sports,2023/6/20 1:18,Other,14,0
+551,51,Male,West,Platinum,4,492.5313457,Sports,2023/7/30 5:16,Unemployed,10,0
+552,22,Female,West,Gold,8,793.8029389,Clothing,2023/11/22 15:40,Engineer,13,0
+553,30,Male,East,Gold,6,627.6272874,Books,2022/8/28 0:25,Engineer,8,1
+554,70,Male,East,Platinum,4,537.955537,Sports,2022/10/15 12:22,Other,11,1
+555,28,Male,West,Bronze,4,437.5441669,Clothing,2023/6/1 7:38,Artist,4,0
+556,28,Other,North,Gold,9,900.7982337,Books,2023/6/12 17:08,Other,15,0
+557,36,Female,East,Gold,6,641.9717688,Books,2022/7/8 10:53,Student,14,1
+558,27,Other,South,Platinum,5,527.8042333,Home Goods,2023/8/21 22:50,Artist,18,0
+559,70,Female,North,Silver,8,908.5587904,Books,2023/8/17 21:25,Engineer,11,0
+560,64,Other,East,Silver,6,708.9126822,Clothing,2023/12/18 0:10,Student,7,0
+561,26,Female,South,Platinum,4,432.762673,Books,2022/10/13 15:17,Doctor,6,1
+562,28,Female,South,Platinum,5,530.1949802,Books,2023/8/31 8:28,Artist,4,0
+563,26,Male,West,Gold,5,525.4134864,Books,2022/11/23 0:12,Engineer,10,1
+564,34,Other,North,Bronze,3,359.2378349,Home Goods,2023/12/19 19:34,Unemployed,13,0
+565,51,Other,East,Bronze,5,585.1821591,Sports,2022/5/23 0:25,Other,11,1
+566,27,Female,South,Gold,6,620.4550467,Books,2022/12/20 8:06,Unemployed,10,1
+567,63,Other,West,Gold,5,613.871122,Electronics,2023/12/23 10:31,Engineer,11,0
+568,75,Female,East,Bronze,5,642.5600849,Sports,2023/10/1 15:02,Doctor,8,0
+569,49,Female,South,Silver,3,395.0990385,Electronics,2023/7/13 1:43,Doctor,14,0
+570,30,Male,West,Silver,6,627.6272874,Books,2023/7/1 22:07,Student,13,0
+571,59,Female,South,Bronze,3,419.0065076,Home Goods,2023/9/13 18:58,Unemployed,10,0
+572,27,Other,West,Platinum,4,435.1534199,Clothing,2022/9/20 3:31,Doctor,8,1
+573,70,Male,West,Platinum,8,908.5587904,Sports,2023/9/11 23:18,Artist,14,0
+574,63,Female,North,Gold,4,521.2203086,Books,2023/10/12 6:56,Other,12,0
+575,35,Male,East,Silver,6,639.5810219,Electronics,2023/7/8 15:01,Doctor,6,0
+576,59,Male,West,Platinum,8,882.2605744,Books,2023/8/25 10:11,Artist,11,0
+577,18,Female,South,Platinum,3,320.9858844,Clothing,2022/6/24 16:05,Unemployed,11,1
+578,64,Other,East,Platinum,5,616.2618689,Books,2022/1/27 19:31,Artist,11,1
+579,60,Female,East,Bronze,6,699.3496946,Electronics,2023/9/16 21:06,Engineer,14,0
+580,34,Female,East,Gold,7,729.8410884,Electronics,2023/1/16 0:02,Other,8,1
+581,21,Female,North,Gold,4,420.8089385,Books,2022/6/13 15:05,Artist,11,1
+582,35,Female,West,Silver,3,361.6285818,Books,2023/10/15 0:56,Other,10,0
+583,18,Female,West,Platinum,6,598.9383245,Sports,2022/12/18 19:03,Engineer,8,1
+584,26,Other,West,Gold,2,247.4610463,Home Goods,2023/1/23 6:54,Doctor,8,1
+585,27,Male,West,Bronze,3,342.5026066,Clothing,2022/7/1 22:55,Engineer,11,1
+586,20,Other,South,Bronze,5,511.069005,Home Goods,2022/7/29 19:23,Unemployed,8,1
+587,48,Female,West,Bronze,5,578.0099184,Books,2023/6/2 18:00,Other,11,0
+588,70,Male,East,Platinum,8,908.5587904,Home Goods,2023/10/2 13:04,Unemployed,10,0
+589,35,Male,West,Bronze,12,1195.485902,Clothing,2023/8/13 3:59,Artist,10,0
+590,57,Male,West,Platinum,3,414.2250138,Home Goods,2023/2/14 23:03,Unemployed,8,1
+591,25,Other,West,Gold,6,615.6735529,Clothing,2023/7/3 17:11,Student,11,0
+592,74,Other,West,Bronze,6,732.8201513,Electronics,2023/7/31 5:08,Artist,8,0
+593,70,Other,North,Platinum,12,1279.162044,Electronics,2022/6/2 6:11,Student,6,1
+594,70,Female,East,Silver,7,815.907977,Books,2023/2/6 11:16,Other,4,1
+595,75,Other,North,Gold,5,642.5600849,Home Goods,2022/7/13 16:17,Unemployed,10,1
+596,76,Other,East,Gold,4,552.3000184,Electronics,2023/11/27 5:08,Other,13,0
+597,72,Other,West,Platinum,3,450.0862174,Home Goods,2023/8/26 19:17,Doctor,12,0
+598,75,Male,West,Platinum,5,642.5600849,Electronics,2023/8/15 5:00,Doctor,10,0
+599,28,Male,East,Gold,2,252.2425401,Books,2023/7/6 19:42,Other,10,0
+600,56,Female,East,Platinum,4,504.4850803,Electronics,2023/11/14 20:50,Other,7,0
+601,67,Male,North,Bronze,5,623.4341096,Electronics,2022/12/8 0:22,Unemployed,4,1
+602,75,Female,North,Platinum,8,920.5125249,Clothing,2023/1/11 10:02,Doctor,13,1
+603,27,Male,South,Gold,6,620.4550467,Books,2023/9/17 23:24,Doctor,17,0
+604,67,Female,South,Bronze,8,901.3865497,Sports,2023/7/9 14:21,Other,20,0
+605,33,Female,North,Platinum,6,634.7995281,Home Goods,2023/7/31 1:17,Unemployed,8,0
+606,48,Male,South,Bronze,7,763.3115451,Sports,2023/6/2 21:17,Unemployed,9,0
+607,32,Male,North,Platinum,4,447.1071545,Sports,2022/2/12 5:41,Student,7,1
+608,65,Other,North,Gold,3,433.3509891,Clothing,2022/11/13 5:31,Engineer,5,1
+609,20,Other,North,Gold,5,511.069005,Sports,2023/6/7 12:40,Student,13,0
+610,35,Female,South,Bronze,8,824.8826487,Electronics,2023/11/25 4:48,Artist,10,0
+611,33,Female,East,Gold,4,449.4979014,Clothing,2022/4/21 21:28,Other,4,1
+612,51,Female,West,Gold,4,492.5313457,Clothing,2023/11/9 14:58,Artist,7,0
+613,27,Male,South,Bronze,7,713.10586,Clothing,2023/9/4 0:59,Doctor,11,0
+614,52,Male,West,Bronze,6,680.2237194,Books,2023/6/3 18:39,Other,13,0
+615,28,Other,West,Gold,9,900.7982337,Sports,2023/9/21 2:07,Artist,9,0
+616,19,Male,East,Bronze,4,416.0274447,Clothing,2023/7/8 7:42,Other,11,0
+617,78,Female,South,Bronze,7,835.0339523,Electronics,2023/11/2 17:25,Doctor,13,0
+618,65,Other,West,Platinum,9,989.2558692,Electronics,2023/11/24 9:55,Other,15,0
+619,77,Male,East,Silver,5,647.3415787,Clothing,2023/10/23 16:28,Unemployed,17,0
+620,75,Female,East,Gold,4,549.9092715,Books,2023/9/26 12:06,Other,8,0
+621,37,Male,North,Gold,4,459.060889,Home Goods,2023/10/7 3:52,Other,9,0
+622,28,Male,South,Platinum,6,622.8457936,Clothing,2022/9/26 3:46,Engineer,10,1
+623,70,Male,West,Gold,7,815.907977,Home Goods,2022/9/2 22:47,Unemployed,12,1
+624,20,Female,East,Gold,9,881.6722584,Books,2022/7/6 21:49,Unemployed,10,1
+625,27,Female,West,Gold,7,713.10586,Clothing,2023/9/4 3:50,Unemployed,9,0
+626,43,Male,South,Bronze,4,473.4053705,Clothing,2022/10/8 22:50,Doctor,11,1
+627,27,Female,North,Gold,3,342.5026066,Electronics,2022/4/17 9:43,Doctor,13,1
+628,34,Male,West,Gold,5,544.5394617,Clothing,2023/9/9 23:11,Engineer,7,0
+629,47,Other,North,Silver,8,853.5716115,Clothing,2023/10/19 13:44,Unemployed,12,0
+630,70,Female,East,Platinum,4,537.955537,Clothing,2023/3/15 18:33,Engineer,10,1
+631,67,Male,North,Platinum,4,530.7832962,Electronics,2022/12/9 22:33,Other,10,1
+632,65,Male,West,Bronze,4,526.0018024,Home Goods,2023/7/21 23:16,Doctor,14,0
+633,48,Male,South,Gold,6,670.6607317,Electronics,2022/1/8 0:02,Unemployed,16,1
+634,63,Other,West,Gold,6,706.5219353,Electronics,2023/9/25 20:40,Engineer,16,0
+635,27,Female,West,Gold,6,620.4550467,Clothing,2023/10/5 2:34,Other,7,0
+636,67,Male,North,Gold,7,808.7357363,Clothing,2023/12/25 16:11,Artist,13,0
+637,28,Male,North,Bronze,7,715.4966069,Sports,2023/7/18 9:01,Unemployed,11,0
+638,27,Male,West,Silver,5,527.8042333,Sports,2023/6/16 6:41,Artist,7,0
+639,35,Female,North,Platinum,3,361.6285818,Books,2023/11/7 4:53,Artist,9,0
+640,22,Other,North,Silver,5,515.8504988,Sports,2022/2/4 7:52,Student,8,1
+641,70,Other,South,Gold,4,537.955537,Clothing,2023/7/30 0:54,Unemployed,11,0
+642,31,Male,South,Silver,3,352.0655942,Books,2023/9/8 17:26,Other,6,0
+643,26,Male,East,Silver,3,340.1118597,Home Goods,2023/5/8 14:41,Engineer,12,1
+644,72,Female,West,Platinum,8,913.3402842,Sports,2022/9/19 15:16,Engineer,6,1
+645,22,Male,North,Silver,4,423.1996854,Sports,2023/10/5 12:54,Engineer,6,0
+646,65,Other,West,Silver,8,896.6050559,Clothing,2023/12/4 8:49,Artist,8,0
+647,65,Female,East,Silver,6,711.3034291,Clothing,2023/9/10 14:26,Unemployed,15,0
+648,70,Female,East,Bronze,7,815.907977,Electronics,2023/6/6 23:53,Student,19,0
+649,27,Male,South,Bronze,7,713.10586,Electronics,2023/8/16 3:51,Doctor,11,0
+650,77,Other,North,Bronze,10,1110.595645,Sports,2022/10/12 5:57,Student,7,1
+651,35,Female,North,Silver,7,732.2318353,Sports,2023/10/13 2:11,Other,5,0
+652,40,Female,West,Bronze,6,651.5347565,Books,2023/10/13 14:13,Other,7,0
+653,27,Male,South,Silver,8,805.7566734,Sports,2023/7/9 5:51,Engineer,8,0
+654,70,Other,South,Silver,5,630.6063503,Clothing,2022/4/28 18:48,Student,9,1
+655,33,Other,South,Bronze,7,727.4503415,Clothing,2023/11/11 9:42,Other,12,0
+656,74,Female,North,Gold,7,825.4709647,Books,2023/11/28 19:06,Artist,11,0
+657,22,Other,East,Silver,9,886.4537522,Home Goods,2023/9/16 8:56,Engineer,8,0
+658,50,Male,East,Silver,5,582.7914122,Home Goods,2023/12/12 22:38,Other,7,0
+659,28,Male,North,Platinum,6,622.8457936,Clothing,2023/6/5 10:07,Student,16,0
+660,51,Female,East,Bronze,6,677.8329724,Electronics,2023/10/7 16:12,Other,9,0
+661,77,Female,West,Platinum,6,739.992392,Home Goods,2023/8/7 11:09,Other,12,0
+662,27,Other,North,Silver,7,713.10586,Electronics,2022/5/31 2:30,Student,12,1
+663,75,Male,North,Platinum,5,642.5600849,Clothing,2023/8/9 9:24,Doctor,8,0
+664,21,Other,South,Silver,2,235.5073118,Clothing,2023/7/25 18:22,Other,10,0
+665,75,Other,North,Platinum,6,735.2108982,Electronics,2022/4/5 17:39,Other,14,1
+666,57,Female,West,Silver,4,506.8758272,Clothing,2022/11/10 12:47,Engineer,11,1
+667,19,Male,South,Bronze,6,601.3290714,Sports,2023/12/7 0:31,Doctor,7,0
+668,60,Male,South,Platinum,3,421.3972545,Clothing,2023/9/4 4:10,Engineer,13,0
+669,27,Other,East,Platinum,8,805.7566734,Sports,2022/1/11 3:32,Doctor,13,1
+670,59,Male,South,Gold,4,511.657321,Books,2023/12/29 9:33,Student,14,0
+671,31,Male,West,Gold,8,815.319661,Electronics,2023/11/15 19:54,Artist,13,0
+672,75,Other,West,Bronze,5,642.5600849,Home Goods,2022/12/13 17:26,Doctor,7,1
+673,47,Female,East,Silver,4,482.9683581,Books,2023/7/22 5:29,Engineer,7,0
+674,59,Female,North,Gold,4,511.657321,Electronics,2023/10/6 18:01,Unemployed,5,0
+675,27,Female,West,Bronze,3,342.5026066,Home Goods,2022/4/11 9:20,Unemployed,10,1
+676,52,Other,West,Bronze,4,494.9220926,Sports,2023/7/13 9:47,Doctor,8,0
+677,50,Male,East,Silver,7,768.0930389,Home Goods,2023/7/5 13:22,Student,5,0
+678,72,Other,East,Silver,4,542.7370308,Sports,2023/9/22 18:25,Other,11,0
+679,25,Other,East,Platinum,4,430.3719261,Clothing,2023/8/16 12:02,Other,12,0
+680,36,Female,North,Platinum,6,641.9717688,Clothing,2023/1/17 15:35,Doctor,11,1
+681,44,Male,North,Bronze,8,846.3993708,Sports,2023/8/26 0:56,Artist,8,0
+682,45,Female,South,Bronze,5,570.8376776,Books,2022/7/26 10:12,Engineer,5,1
+683,69,Male,West,Bronze,6,720.8664168,Home Goods,2023/11/24 1:25,Unemployed,7,0
+684,27,Male,North,Platinum,7,713.10586,Sports,2022/7/23 13:56,Engineer,18,1
+685,35,Female,South,Gold,6,639.5810219,Books,2023/8/30 9:13,Engineer,8,0
+686,27,Female,North,Silver,6,620.4550467,Home Goods,2022/5/8 10:53,Doctor,11,1
+687,47,Other,East,Bronze,7,760.9207982,Books,2023/8/28 17:14,Student,16,0
+688,70,Male,South,Platinum,6,723.2571637,Sports,2023/10/25 22:31,Engineer,9,0
+689,37,Male,North,Platinum,7,737.0133291,Home Goods,2022/11/7 17:18,Student,11,1
+690,22,Male,North,Silver,5,515.8504988,Home Goods,2023/6/1 17:28,Artist,13,0
+691,27,Male,West,Gold,5,527.8042333,Books,2023/9/6 23:33,Other,12,0
+692,27,Male,North,Bronze,4,435.1534199,Clothing,2023/11/29 2:28,Artist,9,0
+693,33,Other,West,Silver,6,634.7995281,Home Goods,2023/10/12 1:50,Other,9,0
+694,70,Male,East,Platinum,8,908.5587904,Books,2022/12/7 3:20,Other,13,1
+695,32,Other,South,Gold,5,539.7579678,Clothing,2023/12/5 8:52,Student,5,0
+696,20,Female,South,Bronze,6,603.7198183,Electronics,2023/11/2 23:51,Doctor,12,0
+697,28,Other,South,Platinum,5,530.1949802,Books,2023/7/31 17:02,Doctor,13,0
+698,61,Other,North,Platinum,2,331.1371881,Home Goods,2023/11/25 16:00,Doctor,11,0
+699,27,Other,South,Silver,6,620.4550467,Electronics,2023/7/21 20:22,Unemployed,8,0
+700,38,Female,West,Platinum,3,368.8008226,Sports,2022/5/17 17:07,Artist,7,1
+701,47,Male,South,Bronze,4,482.9683581,Electronics,2023/7/12 6:54,Artist,9,0
+702,67,Other,North,Platinum,9,994.0373631,Electronics,2023/9/24 0:31,Other,11,0
+703,70,Female,North,Silver,7,815.907977,Electronics,2023/5/17 8:32,Engineer,5,1
+704,28,Other,West,Silver,8,808.1474203,Clothing,2023/12/28 2:19,Student,12,0
+705,72,Other,West,Gold,6,728.0386575,Clothing,2022/5/28 18:30,Unemployed,7,1
+706,63,Female,North,Gold,4,521.2203086,Clothing,2023/10/14 3:44,Other,11,0
+707,31,Other,North,Platinum,5,537.3672209,Electronics,2023/6/16 13:52,Unemployed,13,0
+708,70,Other,East,Platinum,5,630.6063503,Home Goods,2023/6/27 22:40,Engineer,9,0
+709,18,Male,East,Platinum,7,691.5891379,Home Goods,2023/10/5 18:04,Student,14,0
+710,26,Female,South,Gold,5,525.4134864,Electronics,2023/10/14 8:49,Doctor,9,0
+711,35,Other,East,Gold,9,917.533462,Electronics,2023/6/1 16:41,Engineer,17,0
+712,22,Female,North,Platinum,9,886.4537522,Home Goods,2023/2/16 1:49,Doctor,8,1
+713,25,Female,East,Gold,8,800.9751796,Books,2023/5/2 2:08,Doctor,8,1
+714,35,Male,North,Silver,7,732.2318353,Sports,2023/9/20 14:44,Other,10,0
+715,60,Male,East,Gold,8,884.6513213,Electronics,2023/6/27 5:56,Other,6,0
+716,26,Male,West,Silver,4,432.762673,Electronics,2023/10/10 7:22,Doctor,11,0
+717,70,Other,North,Platinum,3,445.3047236,Clothing,2023/10/10 6:20,Doctor,7,0
+718,51,Other,South,Silver,8,863.1345992,Clothing,2023/9/18 6:59,Other,8,0
+719,71,Other,South,Bronze,9,1003.600351,Electronics,2023/10/19 21:47,Artist,16,0
+720,77,Other,East,Platinum,2,369.3891386,Books,2023/11/20 21:53,Other,14,0
+721,28,Other,West,Silver,5,530.1949802,Books,2022/2/24 3:46,Other,15,1
+722,48,Other,North,Silver,6,670.6607317,Clothing,2023/5/7 14:28,Engineer,8,1
+723,61,Female,South,Gold,7,794.3912549,Sports,2023/6/16 10:08,Other,9,0
+724,65,Female,North,Silver,8,896.6050559,Electronics,2023/9/13 15:53,Unemployed,17,0
+725,70,Male,East,Gold,6,723.2571637,Books,2023/11/5 2:58,Student,12,0
+726,19,Other,North,Silver,11,1064.583138,Books,2023/12/25 5:06,Artist,5,0
+727,33,Female,North,Silver,4,449.4979014,Electronics,2022/3/13 16:45,Engineer,9,1
+728,37,Male,East,Gold,7,737.0133291,Sports,2023/8/23 2:37,Doctor,8,0
+729,37,Male,South,Bronze,9,922.3149558,Clothing,2022/1/2 4:16,Artist,9,1
+730,30,Male,West,Silver,7,720.2781008,Electronics,2023/4/21 3:41,Student,10,1
+731,75,Male,West,Silver,4,549.9092715,Sports,2023/7/21 9:57,Doctor,11,0
+732,21,Female,West,Platinum,4,420.8089385,Home Goods,2023/7/19 18:17,Engineer,12,0
+733,65,Female,East,Gold,4,526.0018024,Home Goods,2023/4/14 3:35,Artist,12,1
+734,28,Female,North,Gold,5,530.1949802,Sports,2022/3/25 7:23,Doctor,11,1
+735,34,Male,East,Bronze,3,359.2378349,Clothing,2023/12/18 15:54,Artist,4,0
+736,26,Male,East,Platinum,6,618.0642998,Electronics,2023/12/14 4:08,Doctor,11,0
+737,50,Other,North,Bronze,3,397.4897855,Books,2023/12/3 8:54,Doctor,10,0
+738,27,Other,West,Bronze,1,157.2009799,Electronics,2023/4/5 6:54,Doctor,9,1
+739,28,Male,East,Silver,6,622.8457936,Clothing,2023/7/7 10:53,Artist,10,0
+740,45,Female,West,Silver,8,848.7901177,Home Goods,2023/7/3 15:51,Unemployed,8,0
+741,28,Male,South,Gold,5,530.1949802,Electronics,2022/3/29 23:37,Student,6,1
+742,78,Other,South,Platinum,1,279.1290721,Sports,2023/11/30 18:58,Other,9,0
+743,77,Other,West,Gold,6,739.992392,Electronics,2023/12/21 9:28,Other,7,0
+744,56,Female,East,Platinum,5,597.1358936,Electronics,2023/11/13 22:12,Other,6,0
+745,26,Male,North,Gold,3,340.1118597,Home Goods,2023/7/18 12:20,Artist,10,0
+746,40,Other,West,Bronze,5,558.8839431,Home Goods,2022/5/15 13:12,Engineer,7,1
+747,21,Female,West,Bronze,10,976.7138187,Books,2022/11/1 3:08,Other,13,1
+748,35,Other,East,Bronze,4,454.2793952,Home Goods,2022/1/12 5:44,Student,10,1
+749,21,Female,West,Silver,11,1069.364632,Home Goods,2022/6/22 14:14,Student,13,1
+750,35,Other,West,Platinum,6,639.5810219,Electronics,2022/6/17 0:45,Doctor,11,1
+751,67,Other,East,Platinum,9,994.0373631,Home Goods,2023/11/12 10:28,Other,7,0
+752,20,Male,West,Silver,6,603.7198183,Electronics,2023/8/29 23:44,Engineer,4,0
+753,59,Female,West,Platinum,10,1067.562201,Electronics,2022/2/3 19:22,Artist,10,1
+754,54,Female,West,Gold,5,592.3543998,Sports,2023/11/10 23:00,Doctor,13,0
+755,75,Other,South,Bronze,3,457.2584581,Electronics,2023/6/10 9:24,Other,12,0
+756,28,Male,South,Silver,10,993.449047,Books,2023/6/20 0:19,Engineer,10,0
+757,35,Other,North,Bronze,5,546.9302086,Electronics,2023/7/21 12:36,Engineer,7,0
+758,33,Other,North,Platinum,8,820.1011548,Electronics,2023/12/4 0:22,Student,7,0
+759,27,Other,North,Silver,9,898.4074868,Clothing,2023/10/4 9:23,Engineer,4,0
+760,50,Female,East,Platinum,5,582.7914122,Books,2023/6/23 17:15,Unemployed,14,0
+761,69,Male,East,Bronze,3,442.9139767,Clothing,2022/11/25 9:43,Engineer,13,1
+762,74,Other,East,Platinum,4,547.5185246,Sports,2023/9/26 5:17,Unemployed,7,0
+763,57,Other,West,Silver,5,599.5266405,Electronics,2023/8/15 20:53,Doctor,14,0
+764,38,Other,East,Platinum,2,276.1500092,Books,2023/11/25 7:01,Artist,4,0
+765,60,Female,North,Silver,7,792.000508,Books,2023/10/14 15:02,Artist,13,0
+766,70,Other,North,Silver,5,630.6063503,Sports,2023/10/5 22:29,Unemployed,12,0
+767,27,Female,North,Silver,4,435.1534199,Home Goods,2023/1/23 5:17,Student,11,1
+768,60,Female,East,Gold,5,606.6988812,Books,2023/10/12 20:28,Artist,9,0
+769,79,Female,East,Platinum,6,744.7738858,Home Goods,2023/6/3 21:58,Engineer,8,0
+770,34,Female,North,Platinum,2,266.5870216,Sports,2022/11/23 11:48,Artist,10,1
+771,77,Female,South,Bronze,4,554.6907653,Home Goods,2023/7/17 21:42,Doctor,10,0
+772,27,Male,North,Silver,5,527.8042333,Sports,2023/12/26 3:03,Engineer,3,0
+773,28,Female,East,Silver,7,715.4966069,Electronics,2023/6/22 13:55,Doctor,11,0
+774,28,Female,East,Bronze,5,530.1949802,Electronics,2022/4/6 12:30,Other,12,1
+775,47,Other,North,Platinum,6,668.2699848,Electronics,2023/6/1 21:18,Artist,14,0
+776,67,Male,West,Platinum,7,808.7357363,Clothing,2022/5/29 17:18,Student,7,1
+777,79,Male,South,Platinum,2,374.1706324,Books,2022/4/5 13:03,Engineer,11,1
+778,65,Other,South,Silver,8,896.6050559,Sports,2023/8/3 14:46,Other,12,0
+779,33,Female,East,Silver,5,542.1487148,Home Goods,2023/11/30 4:09,Doctor,9,0
+780,27,Male,East,Bronze,5,527.8042333,Sports,2023/9/7 2:53,Unemployed,12,0
+781,70,Female,East,Gold,6,723.2571637,Clothing,2023/10/12 22:14,Doctor,12,0
+782,53,Other,North,Gold,8,867.916093,Home Goods,2023/7/29 3:51,Unemployed,11,0
+783,26,Male,East,Silver,1,154.810233,Clothing,2023/9/17 7:11,Unemployed,10,0
+784,30,Female,East,Platinum,3,349.6748473,Home Goods,2023/6/22 3:55,Student,13,0
+785,50,Male,East,Platinum,5,582.7914122,Books,2023/8/27 17:12,Unemployed,12,0
+786,36,Male,South,Gold,7,734.6225822,Electronics,2023/8/9 4:15,Engineer,4,0
+787,31,Female,South,Platinum,4,444.7164076,Electronics,2023/7/27 19:57,Artist,8,0
+788,38,Female,West,Gold,4,461.4516359,Books,2023/7/8 8:42,Doctor,16,0
+789,63,Male,West,Silver,7,799.1727487,Books,2023/12/12 16:40,Other,8,0
+790,67,Other,East,Silver,7,808.7357363,Electronics,2022/2/14 1:48,Engineer,9,1
+791,40,Male,South,Platinum,8,836.8363832,Sports,2023/7/29 23:10,Unemployed,11,0
+792,26,Other,South,Platinum,8,803.3659265,Home Goods,2023/8/16 22:47,Engineer,7,0
+793,67,Male,South,Gold,4,530.7832962,Sports,2023/12/15 23:15,Engineer,11,0
+794,36,Female,South,Platinum,9,919.9242089,Sports,2023/9/13 2:20,Student,5,0
+795,70,Other,West,Silver,6,723.2571637,Books,2022/5/21 19:16,Unemployed,11,1
+796,70,Other,North,Platinum,4,537.955537,Electronics,2023/8/10 20:45,Engineer,13,0
+797,26,Male,South,Platinum,8,803.3659265,Home Goods,2023/8/27 2:43,Other,12,0
+798,33,Male,South,Platinum,10,1005.402782,Electronics,2023/7/11 6:35,Doctor,9,0
+799,28,Other,South,Silver,5,530.1949802,Electronics,2023/7/19 21:59,Student,7,0
+800,75,Female,South,Platinum,6,735.2108982,Electronics,2022/7/17 13:44,Engineer,12,1
+801,45,Other,North,Gold,7,756.1393044,Books,2023/12/29 15:20,Doctor,13,0
+802,77,Other,North,Bronze,4,554.6907653,Electronics,2023/12/18 11:34,Doctor,11,0
+803,33,Female,East,Gold,5,542.1487148,Electronics,2023/10/25 21:29,Unemployed,8,0
+804,70,Female,West,Gold,10,1093.860417,Home Goods,2023/12/2 23:37,Engineer,13,0
+805,72,Male,South,Gold,9,1005.991098,Books,2023/12/8 17:51,Unemployed,9,0
+806,74,Male,South,Silver,4,547.5185246,Sports,2023/10/22 1:55,Doctor,17,0
+807,33,Male,East,Gold,4,449.4979014,Clothing,2023/11/23 8:06,Engineer,11,0
+808,28,Female,North,Platinum,9,900.7982337,Electronics,2023/9/23 16:13,Other,9,0
+809,21,Other,East,Silver,7,698.7613786,Electronics,2023/8/5 20:51,Unemployed,10,0
+810,50,Female,North,Bronze,3,397.4897855,Home Goods,2023/8/19 9:50,Unemployed,10,0
+811,21,Male,West,Gold,11,1069.364632,Sports,2023/12/15 4:38,Artist,14,0
+812,44,Other,East,Bronze,6,661.0977441,Clothing,2023/8/31 6:28,Other,10,0
+813,28,Male,East,Platinum,5,530.1949802,Home Goods,2023/11/9 19:20,Other,10,0
+814,21,Other,South,Platinum,8,791.412192,Clothing,2023/2/20 20:39,Student,8,1
+815,75,Female,East,Gold,5,642.5600849,Home Goods,2022/1/28 16:58,Doctor,6,1
+816,67,Male,North,Platinum,6,716.084923,Home Goods,2023/11/25 3:32,Doctor,9,0
+817,63,Female,North,Platinum,5,613.871122,Books,2023/7/3 4:10,Unemployed,6,0
+818,67,Female,East,Platinum,6,716.084923,Home Goods,2023/6/5 5:39,Doctor,6,0
+819,35,Female,North,Silver,4,454.2793952,Sports,2023/2/27 5:49,Doctor,15,1
+820,27,Other,East,Bronze,6,620.4550467,Books,2023/7/21 23:58,Engineer,8,0
+821,27,Female,West,Gold,5,527.8042333,Clothing,2023/7/30 16:23,Artist,4,0
+822,57,Female,South,Bronze,9,970.129894,Books,2023/12/23 22:22,Engineer,10,0
+823,65,Other,West,Silver,4,526.0018024,Clothing,2023/3/31 11:29,Engineer,13,1
+824,25,Female,West,Platinum,2,245.0702994,Clothing,2022/5/18 1:51,Doctor,11,1
+825,75,Female,South,Platinum,7,827.8617116,Clothing,2023/11/6 6:53,Doctor,11,0
+826,47,Female,South,Silver,5,575.6191715,Home Goods,2023/9/16 12:56,Doctor,9,0
+827,60,Other,South,Platinum,3,421.3972545,Sports,2023/9/3 17:25,Engineer,19,0
+828,27,Other,East,Gold,9,898.4074868,Books,2023/10/1 7:39,Other,11,0
+829,59,Male,North,Gold,6,696.9589477,Clothing,2022/6/12 14:45,Other,13,1
+830,19,Female,East,Bronze,7,693.9798848,Sports,2023/9/4 6:34,Engineer,14,0
+831,47,Other,North,Silver,4,482.9683581,Clothing,2023/7/5 21:42,Artist,5,0
+832,66,Female,East,Silver,7,806.3449894,Clothing,2023/4/28 2:16,Unemployed,7,1
+833,21,Other,North,Gold,9,884.0630053,Electronics,2023/10/16 10:26,Other,15,0
+834,33,Other,North,Platinum,6,634.7995281,Clothing,2023/5/22 21:04,Other,9,1
+835,26,Other,West,Silver,10,988.6675532,Electronics,2023/7/25 21:33,Engineer,9,0
+836,57,Male,East,Silver,8,877.4790806,Electronics,2022/4/18 10:38,Doctor,8,1
+837,53,Female,South,Platinum,3,404.6620262,Clothing,2023/9/20 14:44,Engineer,12,0
+838,34,Other,East,Silver,4,451.8886483,Sports,2023/12/3 19:04,Student,7,0
+839,35,Female,South,Platinum,6,639.5810219,Sports,2023/9/28 8:08,Engineer,9,0
+840,35,Other,East,Bronze,7,732.2318353,Home Goods,2023/9/14 3:05,Engineer,18,0
+841,75,Female,West,Bronze,9,1013.163338,Electronics,2022/1/23 13:59,Student,5,1
+842,28,Female,North,Platinum,7,715.4966069,Sports,2022/5/31 18:24,Artist,11,1
+843,62,Other,South,Bronze,6,704.1311884,Sports,2023/7/16 21:58,Engineer,9,0
+844,65,Female,North,Platinum,4,526.0018024,Home Goods,2023/7/20 6:55,Student,4,0
+845,36,Male,North,Platinum,1,178.717702,Electronics,2023/6/6 10:28,Other,11,0
+846,52,Male,North,Silver,2,309.6204659,Clothing,2023/10/26 13:53,Student,12,0
+847,57,Female,West,Platinum,4,506.8758272,Electronics,2023/6/7 0:21,Other,7,0
+848,45,Female,East,Platinum,9,941.4409311,Books,2022/6/13 17:08,Student,11,1
+849,28,Other,North,Platinum,9,900.7982337,Sports,2022/1/11 20:50,Artist,11,1
+850,40,Other,West,Platinum,4,466.2331297,Home Goods,2023/11/28 10:33,Student,18,0
+851,27,Female,West,Platinum,6,620.4550467,Electronics,2023/12/5 13:44,Unemployed,10,0
+852,45,Female,West,Gold,5,570.8376776,Home Goods,2023/7/11 8:07,Doctor,9,0
+853,67,Female,East,Gold,5,623.4341096,Books,2023/3/3 21:26,Unemployed,10,1
+854,26,Female,South,Gold,4,432.762673,Clothing,2023/7/17 18:49,Engineer,11,0
+855,35,Male,North,Bronze,4,454.2793952,Clothing,2022/3/30 4:32,Artist,3,1
+856,28,Female,West,Silver,9,900.7982337,Sports,2023/10/23 8:38,Other,9,0
+857,27,Other,South,Bronze,5,527.8042333,Electronics,2023/11/6 5:17,Other,9,0
+858,30,Male,South,Bronze,4,442.3256607,Books,2023/8/21 6:42,Artist,9,0
+859,27,Female,West,Gold,7,713.10586,Electronics,2022/10/11 22:21,Artist,10,1
+860,38,Other,East,Gold,6,646.7532627,Electronics,2022/8/2 0:21,Engineer,12,1
+861,22,Male,South,Silver,7,701.1521255,Home Goods,2023/10/28 22:41,Student,11,0
+862,70,Female,East,Platinum,5,630.6063503,Sports,2023/10/13 5:25,Engineer,10,0
+863,47,Female,East,Bronze,7,760.9207982,Sports,2022/7/13 10:47,Student,18,1
+864,70,Female,South,Silver,4,537.955537,Electronics,2022/4/10 12:41,Student,8,1
+865,26,Female,South,Platinum,5,525.4134864,Electronics,2023/8/18 2:27,Unemployed,11,0
+866,63,Male,South,Bronze,3,428.5694952,Books,2022/1/19 0:43,Student,5,1
+867,70,Other,East,Silver,6,723.2571637,Electronics,2023/6/20 21:29,Engineer,13,0
+868,28,Female,East,Bronze,4,437.5441669,Sports,2022/4/1 11:22,Student,17,1
+869,67,Male,South,Silver,5,623.4341096,Home Goods,2023/7/31 4:08,Other,16,0
+870,72,Male,West,Bronze,4,542.7370308,Books,2023/9/2 7:45,Other,7,0
+871,57,Other,West,Platinum,6,692.1774539,Home Goods,2023/10/16 10:13,Engineer,11,0
+872,30,Male,East,Bronze,3,349.6748473,Electronics,2023/11/9 16:52,Artist,7,0
+873,47,Male,West,Gold,6,668.2699848,Books,2022/9/29 18:58,Unemployed,8,1
+874,45,Other,South,Bronze,6,663.488491,Home Goods,2023/10/5 18:49,Student,13,0
+875,47,Male,East,Platinum,8,853.5716115,Books,2023/8/14 22:17,Artist,7,0
+876,38,Male,West,Gold,8,832.0548894,Clothing,2023/8/11 7:33,Artist,16,0
+877,40,Other,East,Platinum,7,744.1855698,Clothing,2023/12/5 9:48,Engineer,12,0
+878,27,Male,West,Platinum,7,713.10586,Sports,2023/7/31 10:30,Artist,8,0
+879,53,Other,West,Silver,5,589.9636529,Books,2023/10/25 17:47,Artist,8,0
+880,33,Female,North,Platinum,4,449.4979014,Books,2023/10/15 22:31,Student,13,0
+881,47,Female,West,Platinum,12,1224.174865,Sports,2022/11/18 8:58,Other,6,1
+882,28,Female,North,Platinum,4,437.5441669,Clothing,2023/7/21 4:13,Doctor,11,0
+883,57,Female,South,Gold,4,506.8758272,Books,2022/9/28 18:14,Student,11,1
+884,47,Male,North,Bronze,8,853.5716115,Sports,2022/11/20 0:26,Doctor,10,1
+885,59,Female,East,Gold,6,696.9589477,Sports,2022/3/24 3:39,Artist,5,1
+886,61,Other,South,Platinum,5,609.0896282,Books,2023/12/30 15:58,Doctor,6,0
+887,59,Other,North,Platinum,5,604.3081343,Clothing,2023/7/12 22:25,Artist,10,0
+888,70,Other,South,Platinum,4,537.955537,Home Goods,2022/9/24 6:14,Student,7,1
+889,75,Other,West,Gold,9,1013.163338,Clothing,2022/12/28 2:19,Engineer,10,1
+890,37,Female,South,Platinum,3,366.4100757,Books,2022/1/1 15:59,Doctor,9,1
+891,28,Other,West,Silver,8,808.1474203,Books,2023/9/22 14:07,Unemployed,8,0
+892,38,Female,East,Gold,5,554.1024493,Books,2023/2/24 23:36,Engineer,14,1
+893,22,Other,West,Silver,1,145.2472453,Clothing,2023/10/10 17:47,Doctor,13,0
+894,31,Other,West,Silver,6,630.0180343,Home Goods,2023/11/25 11:44,Other,5,0
+895,28,Female,West,Gold,5,530.1949802,Home Goods,2022/11/29 17:07,Artist,7,1
+896,47,Female,North,Platinum,12,1224.174865,Sports,2023/1/10 16:20,Artist,10,1
+897,29,Male,East,Bronze,13,1273.792234,Sports,2023/7/7 16:59,Artist,7,0
+898,53,Male,South,Platinum,5,589.9636529,Electronics,2023/6/8 0:46,Artist,4,0
+899,38,Male,West,Silver,6,646.7532627,Electronics,2023/8/15 19:08,Other,8,0
+900,70,Other,South,Gold,5,630.6063503,Electronics,2023/12/19 4:57,Other,6,0
+901,25,Other,South,Silver,7,708.3243662,Electronics,2023/12/5 14:00,Artist,11,0
+902,19,Other,West,Gold,5,508.6782581,Home Goods,2023/4/13 12:28,Student,19,1
+903,37,Male,North,Platinum,4,459.060889,Books,2023/7/23 1:41,Doctor,7,0
+904,27,Male,East,Platinum,3,342.5026066,Home Goods,2023/11/22 22:00,Engineer,5,0
+905,35,Male,West,Gold,7,732.2318353,Home Goods,2023/3/15 7:57,Doctor,8,1
+906,77,Other,West,Platinum,4,554.6907653,Sports,2023/11/6 20:24,Doctor,8,0
+907,74,Female,East,Platinum,4,547.5185246,Home Goods,2023/10/29 19:25,Other,11,0
+908,33,Male,North,Bronze,6,634.7995281,Electronics,2023/10/1 8:05,Student,7,0
+909,56,Female,East,Gold,6,689.786707,Sports,2023/7/4 9:02,Student,7,0
+910,30,Other,West,Silver,7,720.2781008,Electronics,2023/12/15 1:32,Other,8,0
+911,35,Male,East,Platinum,4,454.2793952,Sports,2022/8/22 17:56,Artist,6,1
+912,21,Other,South,Silver,2,235.5073118,Sports,2022/7/15 0:22,Artist,11,1
+913,25,Female,South,Bronze,7,708.3243662,Clothing,2023/7/23 19:13,Doctor,5,0
+914,63,Other,South,Platinum,2,335.9186819,Sports,2023/12/26 19:36,Student,8,0
+915,77,Other,North,Silver,9,1017.944832,Clothing,2023/1/12 6:20,Engineer,10,1
+916,63,Male,South,Bronze,6,706.5219353,Books,2022/10/9 5:14,Doctor,10,1
+917,72,Female,East,Gold,5,635.3878441,Electronics,2023/6/5 19:43,Student,11,0
+918,28,Male,North,Gold,6,622.8457936,Home Goods,2022/12/16 5:48,Doctor,11,1
+919,34,Other,East,Gold,4,451.8886483,Books,2023/7/11 7:21,Student,6,0
+920,21,Other,North,Bronze,3,328.1581251,Home Goods,2023/6/13 12:07,Doctor,5,0
+921,21,Female,East,Platinum,9,884.0630053,Electronics,2023/8/7 7:57,Engineer,8,0
+922,75,Other,West,Silver,5,642.5600849,Home Goods,2023/8/22 0:21,Student,14,0
+923,27,Male,North,Silver,6,620.4550467,Sports,2023/9/13 8:31,Unemployed,9,0
+924,27,Female,West,Gold,2,249.8517932,Books,2022/12/13 11:19,Artist,13,1
+925,27,Other,West,Silver,4,435.1534199,Clothing,2023/9/5 6:20,Student,9,0
+926,28,Male,West,Bronze,7,715.4966069,Home Goods,2023/10/17 4:23,Doctor,21,0
+927,38,Male,West,Platinum,6,646.7532627,Books,2023/9/30 21:57,Artist,16,0
+928,35,Female,West,Platinum,5,546.9302086,Clothing,2023/12/6 7:35,Doctor,7,0
+929,21,Other,West,Bronze,6,606.1105652,Electronics,2023/10/2 22:39,Student,7,0
+930,28,Male,East,Platinum,5,530.1949802,Electronics,2022/4/17 4:04,Doctor,13,1
+931,37,Female,South,Bronze,4,459.060889,Books,2023/7/5 10:30,Student,16,0
+932,67,Male,North,Bronze,6,716.084923,Clothing,2023/6/13 17:54,Student,9,0
+933,77,Other,East,Silver,10,1110.595645,Books,2023/7/28 22:01,Artist,14,0
+934,25,Male,East,Bronze,4,430.3719261,Books,2023/3/18 14:05,Student,16,1
+935,28,Other,East,Silver,2,252.2425401,Clothing,2023/6/19 1:04,Engineer,9,0
+936,20,Male,East,Platinum,2,233.1165649,Sports,2023/5/28 11:08,Unemployed,11,1
+937,27,Other,South,Gold,10,991.0583001,Home Goods,2022/1/28 2:01,Other,12,1
+938,58,Male,South,Platinum,5,601.9173874,Home Goods,2023/12/18 13:53,Engineer,5,0
+939,67,Male,North,Silver,3,438.1324829,Home Goods,2023/8/9 4:40,Student,6,0
+940,22,Female,North,Bronze,6,608.5013121,Books,2022/8/24 2:09,Unemployed,7,1
+941,59,Other,East,Platinum,5,604.3081343,Home Goods,2023/6/22 19:18,Doctor,13,0
+942,35,Male,North,Silver,3,361.6285818,Books,2023/9/21 9:57,Doctor,9,0
+943,35,Female,West,Platinum,6,639.5810219,Books,2023/10/16 18:14,Engineer,11,0
+944,78,Male,East,Gold,6,742.3831389,Clothing,2023/3/11 6:33,Other,5,1
+945,33,Female,North,Gold,10,1005.402782,Electronics,2023/8/20 21:23,Artist,8,0
+946,22,Male,North,Platinum,6,608.5013121,Clothing,2023/9/30 20:50,Other,13,0
+947,27,Female,West,Gold,4,435.1534199,Sports,2023/6/18 5:15,Unemployed,12,0
+948,50,Other,East,Silver,4,490.1405988,Home Goods,2022/4/2 21:06,Other,10,1
+949,59,Male,South,Bronze,7,789.6097611,Clothing,2023/3/3 20:28,Unemployed,13,1
+950,49,Other,East,Bronze,3,395.0990385,Clothing,2023/12/6 0:47,Artist,13,0
+951,62,Other,South,Platinum,10,1074.734442,Clothing,2023/11/29 12:35,Doctor,12,0
+952,38,Female,North,Platinum,3,368.8008226,Sports,2022/12/31 14:58,Other,9,1
+953,50,Other,South,Silver,3,397.4897855,Sports,2023/9/25 2:25,Student,16,0
+954,19,Female,East,Bronze,6,601.3290714,Home Goods,2023/12/8 10:51,Other,8,0
+955,20,Female,North,Bronze,6,603.7198183,Electronics,2023/12/27 12:39,Doctor,7,0
+956,30,Female,South,Silver,8,812.9289141,Home Goods,2023/6/5 5:26,Student,11,0
+957,27,Female,South,Gold,5,527.8042333,Electronics,2023/6/11 20:27,Doctor,10,0
+958,35,Female,East,Bronze,5,546.9302086,Electronics,2023/6/22 14:56,Unemployed,9,0
+959,40,Male,North,Platinum,8,836.8363832,Sports,2023/1/6 1:44,Unemployed,15,1
+960,27,Male,North,Gold,7,713.10586,Sports,2023/9/28 3:41,Student,12,0
+961,70,Other,South,Bronze,6,723.2571637,Clothing,2023/9/7 20:29,Doctor,14,0
+962,35,Male,South,Gold,4,454.2793952,Home Goods,2023/12/9 15:20,Student,9,0
+963,38,Female,South,Gold,7,739.404076,Electronics,2023/12/22 4:56,Student,9,0
+964,22,Female,West,Bronze,7,701.1521255,Electronics,2023/8/9 6:58,Other,8,0
+965,27,Male,North,Bronze,7,713.10586,Electronics,2023/7/15 9:58,Doctor,9,0
+966,65,Other,South,Silver,7,803.9542425,Clothing,2022/11/25 17:45,Student,4,1
+967,38,Other,South,Platinum,2,276.1500092,Sports,2023/10/30 2:42,Student,8,0
+968,27,Male,North,Bronze,8,805.7566734,Sports,2022/1/8 16:23,Doctor,3,1
+969,22,Female,West,Bronze,6,608.5013121,Clothing,2023/7/8 11:27,Engineer,7,0
+970,67,Female,North,Platinum,12,1271.989803,Home Goods,2023/6/29 19:10,Engineer,9,0
+971,66,Other,West,Silver,4,528.3925493,Home Goods,2022/12/11 19:46,Artist,12,1
+972,35,Male,East,Gold,7,732.2318353,Clothing,2023/6/4 15:49,Engineer,10,0
+973,27,Female,North,Platinum,6,620.4550467,Sports,2022/6/2 22:27,Other,5,1
+974,36,Other,North,Silver,7,734.6225822,Home Goods,2022/12/24 1:39,Doctor,12,1
+975,28,Other,East,Gold,3,344.8933535,Electronics,2023/6/17 8:50,Student,7,0
+976,38,Male,North,Platinum,6,646.7532627,Electronics,2023/10/26 13:33,Other,13,0
+977,35,Other,East,Silver,5,546.9302086,Sports,2023/9/27 5:17,Doctor,12,0
+978,43,Female,West,Bronze,5,566.0561838,Clothing,2023/11/28 1:07,Unemployed,8,0
+979,51,Other,North,Bronze,6,677.8329724,Clothing,2023/4/9 14:20,Doctor,10,1
+980,27,Other,East,Gold,8,805.7566734,Home Goods,2023/12/18 5:16,Engineer,9,0
+981,35,Other,South,Bronze,7,732.2318353,Sports,2023/9/29 17:49,Artist,12,0
+982,40,Male,West,Gold,6,651.5347565,Sports,2023/8/1 4:20,Student,11,0
+983,26,Female,West,Silver,10,988.6675532,Home Goods,2023/12/16 22:37,Other,14,0
+984,35,Other,South,Bronze,5,546.9302086,Sports,2023/11/21 14:17,Student,12,0
+985,28,Male,South,Gold,4,437.5441669,Sports,2022/12/16 21:01,Other,6,1
+986,62,Other,East,Platinum,7,796.7820018,Home Goods,2023/11/19 1:22,Engineer,11,0
+987,33,Female,South,Silver,9,912.7519682,Sports,2023/7/27 5:58,Other,6,0
+988,27,Other,North,Bronze,4,435.1534199,Home Goods,2023/6/22 8:21,Artist,14,0
+989,27,Male,East,Bronze,9,898.4074868,Books,2023/6/22 2:42,Unemployed,9,0
+990,35,Other,West,Gold,4,454.2793952,Clothing,2023/9/15 9:53,Artist,13,0
+991,40,Other,North,Platinum,6,651.5347565,Clothing,2022/4/4 12:50,Artist,13,1
+992,38,Other,North,Bronze,9,924.7057027,Sports,2023/12/7 18:55,Engineer,10,0
+993,35,Male,West,Gold,6,639.5810219,Electronics,2023/1/4 17:26,Artist,15,1
+994,57,Other,North,Bronze,9,970.129894,Electronics,2023/6/14 12:58,Student,16,0
+995,35,Other,West,Silver,8,824.8826487,Clothing,2023/12/30 2:43,Artist,6,0
+996,26,Male,West,Bronze,5,525.4134864,Electronics,2023/12/19 8:11,Engineer,12,0
+997,26,Male,West,Gold,4,432.762673,Home Goods,2023/7/1 18:18,Artist,17,0
+998,53,Female,West,Gold,6,682.6144663,Home Goods,2022/9/29 3:27,Artist,8,1
+999,50,Male,East,Gold,9,953.3946656,Books,2023/8/3 23:45,Student,12,0
+1000,57,Other,North,Platinum,8,877.4790806,Electronics,2022/6/15 22:27,Student,10,1
